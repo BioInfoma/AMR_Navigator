@@ -1,0 +1,890 @@
+Drug,Country,Total_Observed,Total_Predicted
+Amikacin_I,Argentina,605,605.0000000000051
+Amikacin_I,Australia,54,54.00000000000002
+Amikacin_I,Austria,65,64.99999999999997
+Amikacin_I,Belgium,268,268.00000000000136
+Amikacin_I,Brazil,357,357.00000000000125
+Amikacin_I,Canada,37,37.000000000000256
+Amikacin_I,Chile,367,367.0000000000017
+Amikacin_I,China,1030,1030.0000000000043
+Amikacin_I,Colombia,324,324.0000000000014
+Amikacin_I,Costa Rica,7,7.000000000000003
+Amikacin_I,Croatia,242,242.0000000000015
+Amikacin_I,Czech Republic,149,149.00000000000045
+Amikacin_I,Denmark,17,17.000000000000114
+Amikacin_I,Dominican Republic,6,6.000000000000066
+Amikacin_I,Finland,5,5.000000000000015
+Amikacin_I,France,325,325.0000000000026
+Amikacin_I,Germany,243,243.0000000000015
+Amikacin_I,Greece,1023,1023.0000000000013
+Amikacin_I,Guatemala,161,161.00000000000065
+Amikacin_I,Hong Kong,30,30.000000000000174
+Amikacin_I,Hungary,213,213.0000000000012
+Amikacin_I,India,406,405.99999999999784
+Amikacin_I,Ireland,36,36.0000000000001
+Amikacin_I,Israel,211,211.00000000000182
+Amikacin_I,Italy,1868,1868.0000000000118
+Amikacin_I,Japan,10,9.999999999999993
+Amikacin_I,Jordan,57,57.000000000000185
+Amikacin_I,Kenya,56,56.00000000000023
+Amikacin_I,"Korea, South",298,298.0000000000016
+Amikacin_I,Kuwait,304,304.0000000000032
+Amikacin_I,Latvia,60,60.00000000000025
+Amikacin_I,Lithuania,77,76.99999999999984
+Amikacin_I,Malaysia,123,123.00000000000003
+Amikacin_I,Mexico,722,722.0000000000028
+Amikacin_I,Morocco,85,85.0000000000002
+Amikacin_I,Netherlands,23,23.000000000000085
+Amikacin_I,Nigeria,103,103.00000000000027
+Amikacin_I,Pakistan,81,81.00000000000047
+Amikacin_I,Panama,41,41
+Amikacin_I,Philippines,181,181.0000000000007
+Amikacin_I,Poland,261,261.0000000000007
+Amikacin_I,Portugal,308,308.0000000000008
+Amikacin_I,Romania,298,298.00000000000045
+Amikacin_I,Russia,938,938.0000000000053
+Amikacin_I,Saudi Arabia,57,56.99999999999995
+Amikacin_I,Serbia,35,35.00000000000023
+Amikacin_I,Singapore,24,23.999999999999748
+Amikacin_I,South Africa,240,240.00000000000094
+Amikacin_I,Spain,495,495.00000000000233
+Amikacin_I,Sweden,16,16.000000000000068
+Amikacin_I,Switzerland,17,17.000000000000092
+Amikacin_I,Taiwan,170,170.00000000000045
+Amikacin_I,Thailand,206,206.0000000000009
+Amikacin_I,Turkey,350,350.00000000000284
+Amikacin_I,Ukraine,72,72.00000000000009
+Amikacin_I,United Kingdom,108,108
+Amikacin_I,United States,1055,1055.000000000002
+Amikacin_I,Venezuela,343,342.99999999999915
+Amikacin_I,Vietnam,27,26.999999999999783
+Amoxycillin clavulanate_I,Argentina,1429,1428.9999999999736
+Amoxycillin clavulanate_I,Australia,763,762.9999999999826
+Amoxycillin clavulanate_I,Austria,300,299.9999999999976
+Amoxycillin clavulanate_I,Belgium,2231,2230.9999999999873
+Amoxycillin clavulanate_I,Brazil,1212,1211.9999999999895
+Amoxycillin clavulanate_I,Canada,1262,1261.9999999999898
+Amoxycillin clavulanate_I,Chile,982,981.9999999999882
+Amoxycillin clavulanate_I,China,2538,2537.999999999984
+Amoxycillin clavulanate_I,Colombia,1025,1024.99999999999
+Amoxycillin clavulanate_I,Costa Rica,58,57.99999999999915
+Amoxycillin clavulanate_I,Croatia,598,597.999999999995
+Amoxycillin clavulanate_I,Czech Republic,1227,1226.9999999999893
+Amoxycillin clavulanate_I,Denmark,421,420.99999999999494
+Amoxycillin clavulanate_I,Dominican Republic,33,32.9999999999997
+Amoxycillin clavulanate_I,Finland,167,166.99999999999926
+Amoxycillin clavulanate_I,France,3806,3805.99999999997
+Amoxycillin clavulanate_I,Germany,3645,3644.9999999999613
+Amoxycillin clavulanate_I,Greece,1525,1524.9999999999839
+Amoxycillin clavulanate_I,Guatemala,192,191.99999999999858
+Amoxycillin clavulanate_I,Hong Kong,233,232.99999999999818
+Amoxycillin clavulanate_I,Hungary,911,910.9999999999927
+Amoxycillin clavulanate_I,India,525,524.9999999999952
+Amoxycillin clavulanate_I,Ireland,547,546.9999999999941
+Amoxycillin clavulanate_I,Israel,890,889.9999999999916
+Amoxycillin clavulanate_I,Italy,4598,4597.999999999938
+Amoxycillin clavulanate_I,Japan,443,442.99999999999693
+Amoxycillin clavulanate_I,Jordan,150,149.99999999999847
+Amoxycillin clavulanate_I,Kenya,70,69.99999999999889
+Amoxycillin clavulanate_I,"Korea, South",869,868.9999999999924
+Amoxycillin clavulanate_I,Kuwait,812,811.9999999999918
+Amoxycillin clavulanate_I,Latvia,226,225.9999999999989
+Amoxycillin clavulanate_I,Lithuania,187,186.9999999999984
+Amoxycillin clavulanate_I,Malaysia,235,234.99999999999872
+Amoxycillin clavulanate_I,Mexico,1633,1632.9999999999845
+Amoxycillin clavulanate_I,Morocco,265,264.9999999999965
+Amoxycillin clavulanate_I,Netherlands,611,610.9999999999937
+Amoxycillin clavulanate_I,Nigeria,255,254.99999999999685
+Amoxycillin clavulanate_I,Pakistan,176,175.99999999999778
+Amoxycillin clavulanate_I,Panama,222,221.99999999999818
+Amoxycillin clavulanate_I,Philippines,984,983.9999999999909
+Amoxycillin clavulanate_I,Poland,748,747.9999999999949
+Amoxycillin clavulanate_I,Portugal,1575,1574.9999999999825
+Amoxycillin clavulanate_I,Romania,425,424.99999999999727
+Amoxycillin clavulanate_I,Russia,1200,1199.9999999999868
+Amoxycillin clavulanate_I,Saudi Arabia,133,132.99999999999875
+Amoxycillin clavulanate_I,Serbia,46,45.99999999999949
+Amoxycillin clavulanate_I,Singapore,120,119.99999999999906
+Amoxycillin clavulanate_I,South Africa,989,988.999999999992
+Amoxycillin clavulanate_I,Spain,4737,4736.999999999978
+Amoxycillin clavulanate_I,Sweden,205,204.99999999999892
+Amoxycillin clavulanate_I,Switzerland,542,541.9999999999967
+Amoxycillin clavulanate_I,Taiwan,1042,1041.9999999999893
+Amoxycillin clavulanate_I,Thailand,806,805.9999999999903
+Amoxycillin clavulanate_I,Turkey,923,922.9999999999905
+Amoxycillin clavulanate_I,Ukraine,102,101.99999999999878
+Amoxycillin clavulanate_I,United Kingdom,1239,1238.999999999985
+Amoxycillin clavulanate_I,United States,9942,9941.999999999907
+Amoxycillin clavulanate_I,Venezuela,844,843.9999999999906
+Amoxycillin clavulanate_I,Vietnam,43,43.00000000000004
+Ampicillin_I,Argentina,2739,2738.9999999999927
+Ampicillin_I,Australia,1865,1864.9999999999925
+Ampicillin_I,Austria,794,793.9999999999966
+Ampicillin_I,Belgium,4669,4668.999999999991
+Ampicillin_I,Brazil,2316,2315.999999999991
+Ampicillin_I,Canada,2673,2672.999999999992
+Ampicillin_I,Chile,2046,2045.9999999999877
+Ampicillin_I,China,5346,5345.999999999995
+Ampicillin_I,Colombia,2081,2080.9999999999914
+Ampicillin_I,Costa Rica,139,138.99999999999912
+Ampicillin_I,Croatia,1101,1100.9999999999975
+Ampicillin_I,Czech Republic,2638,2637.9999999999754
+Ampicillin_I,Denmark,1159,1158.9999999999968
+Ampicillin_I,Dominican Republic,80,79.99999999999949
+Ampicillin_I,Finland,298,298.0000000000017
+Ampicillin_I,France,8061,8060.999999999968
+Ampicillin_I,Germany,7816,7815.999999999989
+Ampicillin_I,Greece,2784,2783.999999999985
+Ampicillin_I,Guatemala,448,447.99999999999716
+Ampicillin_I,Hong Kong,519,518.9999999999984
+Ampicillin_I,Hungary,2052,2051.999999999992
+Ampicillin_I,India,941,940.9999999999964
+Ampicillin_I,Ireland,1239,1238.9999999999893
+Ampicillin_I,Israel,2267,2266.9999999999836
+Ampicillin_I,Italy,8716,8715.999999999962
+Ampicillin_I,Japan,1070,1069.999999999996
+Ampicillin_I,Jordan,299,299.0000000000012
+Ampicillin_I,Kenya,212,212.000000000001
+Ampicillin_I,"Korea, South",2048,2047.999999999989
+Ampicillin_I,Kuwait,2046,2045.9999999999961
+Ampicillin_I,Latvia,452,451.9999999999939
+Ampicillin_I,Lithuania,389,388.99999999999955
+Ampicillin_I,Malaysia,693,692.9999999999972
+Ampicillin_I,Mexico,3869,3868.999999999977
+Ampicillin_I,Morocco,463,462.99999999999943
+Ampicillin_I,Netherlands,1366,1365.999999999993
+Ampicillin_I,Nigeria,588,587.9999999999959
+Ampicillin_I,Pakistan,320,319.99999999999864
+Ampicillin_I,Panama,441,440.99999999999443
+Ampicillin_I,Philippines,2049,2048.9999999999905
+Ampicillin_I,Poland,1543,1542.9999999999927
+Ampicillin_I,Portugal,3255,3254.999999999989
+Ampicillin_I,Romania,854,853.9999999999986
+Ampicillin_I,Russia,2749,2748.9999999999886
+Ampicillin_I,Saudi Arabia,248,247.99999999999966
+Ampicillin_I,Serbia,80,79.99999999999892
+Ampicillin_I,Singapore,232,231.9999999999995
+Ampicillin_I,South Africa,2189,2188.999999999995
+Ampicillin_I,Spain,9565,9564.999999999918
+Ampicillin_I,Sweden,459,458.99999999999574
+Ampicillin_I,Switzerland,1131,1131.0000000000005
+Ampicillin_I,Taiwan,2055,2054.9999999999927
+Ampicillin_I,Thailand,1842,1841.999999999994
+Ampicillin_I,Turkey,1705,1705.0000000000002
+Ampicillin_I,Ukraine,173,172.99999999999977
+Ampicillin_I,United Kingdom,2878,2877.9999999999864
+Ampicillin_I,United States,20907,20906.999999999818
+Ampicillin_I,Venezuela,1898,1897.9999999999964
+Ampicillin_I,Vietnam,84,83.99999999999899
+Cefepime_I,Argentina,1070,1069.9999999999866
+Cefepime_I,Australia,175,175.00000000000048
+Cefepime_I,Austria,112,111.99999999999913
+Cefepime_I,Belgium,740,739.9999999999981
+Cefepime_I,Brazil,948,947.9999999999983
+Cefepime_I,Canada,239,238.999999999999
+Cefepime_I,Chile,907,906.9999999999983
+Cefepime_I,China,2528,2527.999999999996
+Cefepime_I,Colombia,637,637.0000000000014
+Cefepime_I,Costa Rica,22,21.999999999999844
+Cefepime_I,Croatia,549,549.0000000000008
+Cefepime_I,Czech Republic,673,673.0000000000025
+Cefepime_I,Denmark,83,82.9999999999999
+Cefepime_I,Dominican Republic,24,23.999999999999993
+Cefepime_I,Finland,17,16.999999999999968
+Cefepime_I,France,1433,1432.999999999997
+Cefepime_I,Germany,1008,1007.9999999999998
+Cefepime_I,Greece,1124,1123.9999999999984
+Cefepime_I,Guatemala,351,350.99999999999983
+Cefepime_I,Hong Kong,94,94.00000000000003
+Cefepime_I,Hungary,565,564.9999999999992
+Cefepime_I,India,660,660.0000000000002
+Cefepime_I,Ireland,212,211.99999999999918
+Cefepime_I,Israel,714,713.9999999999981
+Cefepime_I,Italy,3476,3475.999999999985
+Cefepime_I,Japan,96,96.00000000000031
+Cefepime_I,Jordan,159,158.99999999999983
+Cefepime_I,Kenya,86,86.0000000000001
+Cefepime_I,"Korea, South",698,697.9999999999998
+Cefepime_I,Kuwait,745,744.9999999999977
+Cefepime_I,Latvia,192,191.9999999999991
+Cefepime_I,Lithuania,185,185.00000000000006
+Cefepime_I,Malaysia,274,274.0000000000003
+Cefepime_I,Mexico,1864,1863.9999999999964
+Cefepime_I,Morocco,240,240.00000000000023
+Cefepime_I,Netherlands,81,80.99999999999999
+Cefepime_I,Nigeria,348,348.0000000000004
+Cefepime_I,Pakistan,192,191.9999999999998
+Cefepime_I,Panama,174,174.00000000000028
+Cefepime_I,Philippines,707,706.999999999998
+Cefepime_I,Poland,631,630.9999999999998
+Cefepime_I,Portugal,937,936.999999999998
+Cefepime_I,Romania,501,500.99999999999983
+Cefepime_I,Russia,1820,1820.0000000000045
+Cefepime_I,Saudi Arabia,110,109.99999999999977
+Cefepime_I,Serbia,63,63.00000000000012
+Cefepime_I,Singapore,67,66.99999999999982
+Cefepime_I,South Africa,637,636.9999999999993
+Cefepime_I,Spain,1757,1756.9999999999975
+Cefepime_I,Sweden,56,55.99999999999986
+Cefepime_I,Switzerland,69,69.00000000000018
+Cefepime_I,Taiwan,399,398.99999999999943
+Cefepime_I,Thailand,781,780.9999999999995
+Cefepime_I,Turkey,824,823.9999999999977
+Cefepime_I,Ukraine,140,139.99999999999974
+Cefepime_I,United Kingdom,301,300.99999999999915
+Cefepime_I,United States,2843,2842.9999999999895
+Cefepime_I,Venezuela,602,601.9999999999983
+Cefepime_I,Vietnam,54,54.00000000000003
+Ceftazidime_I,Argentina,1051,1050.9999999999964
+Ceftazidime_I,Australia,317,317.0000000000001
+Ceftazidime_I,Austria,178,177.99999999999872
+Ceftazidime_I,Belgium,1166,1166
+Ceftazidime_I,Brazil,947,947.000000000001
+Ceftazidime_I,Canada,439,438.9999999999988
+Ceftazidime_I,Chile,1059,1058.9999999999973
+Ceftazidime_I,China,2508,2507.9999999999955
+Ceftazidime_I,Colombia,719,719
+Ceftazidime_I,Costa Rica,48,48.00000000000081
+Ceftazidime_I,Croatia,596,596.0000000000011
+Ceftazidime_I,Czech Republic,849,848.9999999999995
+Ceftazidime_I,Denmark,149,149.00000000000028
+Ceftazidime_I,Dominican Republic,31,31.00000000000005
+Ceftazidime_I,Finland,18,18.000000000000078
+Ceftazidime_I,France,2047,2047.0000000000023
+Ceftazidime_I,Germany,1536,1536.0000000000018
+Ceftazidime_I,Greece,1313,1313.0000000000025
+Ceftazidime_I,Guatemala,338,338.0000000000011
+Ceftazidime_I,Hong Kong,124,124.00000000000068
+Ceftazidime_I,Hungary,785,784.9999999999999
+Ceftazidime_I,India,648,648.0000000000001
+Ceftazidime_I,Ireland,278,278.0000000000004
+Ceftazidime_I,Israel,862,862.0000000000003
+Ceftazidime_I,Italy,3952,3952.000000000023
+Ceftazidime_I,Japan,168,168.00000000000028
+Ceftazidime_I,Jordan,153,152.9999999999998
+Ceftazidime_I,Kenya,107,106.99999999999946
+Ceftazidime_I,"Korea, South",800,800
+Ceftazidime_I,Kuwait,852,852.0000000000006
+Ceftazidime_I,Latvia,175,175.00000000000034
+Ceftazidime_I,Lithuania,199,198.99999999999991
+Ceftazidime_I,Malaysia,314,313.9999999999988
+Ceftazidime_I,Mexico,2056,2055.9999999999955
+Ceftazidime_I,Morocco,268,267.99999999999966
+Ceftazidime_I,Netherlands,173,173.00000000000122
+Ceftazidime_I,Nigeria,397,396.99999999999994
+Ceftazidime_I,Pakistan,163,163.0000000000001
+Ceftazidime_I,Panama,208,207.99999999999983
+Ceftazidime_I,Philippines,926,925.9999999999994
+Ceftazidime_I,Poland,762,761.9999999999982
+Ceftazidime_I,Portugal,1286,1285.999999999999
+Ceftazidime_I,Romania,559,558.9999999999995
+Ceftazidime_I,Russia,1915,1914.9999999999927
+Ceftazidime_I,Saudi Arabia,116,116.00000000000027
+Ceftazidime_I,Serbia,67,67.00000000000009
+Ceftazidime_I,Singapore,68,67.99999999999994
+Ceftazidime_I,South Africa,673,672.9999999999992
+Ceftazidime_I,Spain,2397,2396.999999999991
+Ceftazidime_I,Sweden,73,73.00000000000044
+Ceftazidime_I,Switzerland,137,136.9999999999999
+Ceftazidime_I,Taiwan,791,790.9999999999989
+Ceftazidime_I,Thailand,886,885.9999999999989
+Ceftazidime_I,Turkey,845,844.9999999999984
+Ceftazidime_I,Ukraine,152,152.0000000000005
+Ceftazidime_I,United Kingdom,463,463.0000000000004
+Ceftazidime_I,United States,3552,3551.9999999999973
+Ceftazidime_I,Venezuela,699,699.0000000000024
+Ceftazidime_I,Vietnam,61,60.99999999999986
+Ceftriaxone_I,Argentina,850,850.0000000000175
+Ceftriaxone_I,Australia,234,234.00000000000432
+Ceftriaxone_I,Austria,77,77.00000000000176
+Ceftriaxone_I,Belgium,971,971.0000000000209
+Ceftriaxone_I,Brazil,685,685.0000000000138
+Ceftriaxone_I,Canada,378,378.00000000000705
+Ceftriaxone_I,Chile,582,582.000000000012
+Ceftriaxone_I,China,1783,1783.0000000000366
+Ceftriaxone_I,Colombia,472,472.00000000000944
+Ceftriaxone_I,Croatia,470,470.0000000000084
+Ceftriaxone_I,Czech Republic,501,501.00000000001046
+Ceftriaxone_I,Denmark,106,106.00000000000182
+Ceftriaxone_I,Finland,54,54.00000000000112
+Ceftriaxone_I,France,1942,1942.000000000036
+Ceftriaxone_I,Germany,1512,1512.0000000000578
+Ceftriaxone_I,Greece,705,705.0000000000141
+Ceftriaxone_I,Guatemala,214,214.00000000000367
+Ceftriaxone_I,Hong Kong,73,73.00000000000199
+Ceftriaxone_I,Hungary,398,398.0000000000079
+Ceftriaxone_I,India,266,266.00000000000506
+Ceftriaxone_I,Ireland,301,301.0000000000058
+Ceftriaxone_I,Israel,303,303.0000000000052
+Ceftriaxone_I,Italy,3376,3376.000000000075
+Ceftriaxone_I,Japan,142,142.00000000000307
+Ceftriaxone_I,Jordan,157,157.00000000000338
+Ceftriaxone_I,"Korea, South",519,519.0000000000097
+Ceftriaxone_I,Kuwait,396,396.0000000000076
+Ceftriaxone_I,Latvia,138,138.00000000000318
+Ceftriaxone_I,Lithuania,84,84.00000000000163
+Ceftriaxone_I,Malaysia,49,49.00000000000067
+Ceftriaxone_I,Mexico,1187,1187.0000000000216
+Ceftriaxone_I,Morocco,144,144.00000000000313
+Ceftriaxone_I,Netherlands,138,138.00000000000242
+Ceftriaxone_I,Pakistan,255,255.00000000000543
+Ceftriaxone_I,Panama,185,185.00000000000324
+Ceftriaxone_I,Philippines,534,534.0000000000102
+Ceftriaxone_I,Poland,370,370.0000000000065
+Ceftriaxone_I,Portugal,802,802.0000000000172
+Ceftriaxone_I,Romania,145,145.00000000000293
+Ceftriaxone_I,Russia,478,478.00000000001046
+Ceftriaxone_I,Saudi Arabia,89,89.00000000000233
+Ceftriaxone_I,Serbia,67,67.00000000000169
+Ceftriaxone_I,Singapore,66,66.00000000000135
+Ceftriaxone_I,South Africa,441,441.00000000000784
+Ceftriaxone_I,Spain,2219,2219.000000000034
+Ceftriaxone_I,Sweden,54,54.00000000000102
+Ceftriaxone_I,Switzerland,168,168.00000000000497
+Ceftriaxone_I,Taiwan,449,449.00000000000847
+Ceftriaxone_I,Thailand,465,465.00000000000915
+Ceftriaxone_I,Turkey,440,440.0000000000094
+Ceftriaxone_I,United Kingdom,386,386.00000000000796
+Ceftriaxone_I,United States,3942,3942.0000000000846
+Ceftriaxone_I,Venezuela,410,410.00000000000733
+Ceftriaxone_I,Vietnam,64,64.00000000000159
+Clindamycin_I,Argentina,194,193.99999999999923
+Clindamycin_I,Australia,284,283.99999999999926
+Clindamycin_I,Austria,226,225.99999999999923
+Clindamycin_I,Belgium,763,762.9999999999948
+Clindamycin_I,Brazil,348,347.99999999999756
+Clindamycin_I,Canada,130,129.99999999999946
+Clindamycin_I,Chile,632,631.9999999999976
+Clindamycin_I,China,1988,1987.9999999999911
+Clindamycin_I,Colombia,157,156.99999999999957
+Clindamycin_I,Costa Rica,23,22.999999999999936
+Clindamycin_I,Croatia,48,47.999999999999794
+Clindamycin_I,Czech Republic,856,855.9999999999961
+Clindamycin_I,Denmark,203,202.9999999999993
+Clindamycin_I,Dominican Republic,7,6.999999999999959
+Clindamycin_I,Finland,3,2.9999999999999853
+Clindamycin_I,France,1071,1070.9999999999968
+Clindamycin_I,Germany,1398,1397.999999999998
+Clindamycin_I,Greece,666,665.9999999999992
+Clindamycin_I,Guatemala,64,63.999999999999794
+Clindamycin_I,Hong Kong,112,111.99999999999953
+Clindamycin_I,Hungary,979,978.9999999999992
+Clindamycin_I,India,3,2.999999999999977
+Clindamycin_I,Ireland,69,68.99999999999977
+Clindamycin_I,Israel,542,541.999999999999
+Clindamycin_I,Italy,619,618.9999999999953
+Clindamycin_I,Japan,466,465.9999999999985
+Clindamycin_I,Jordan,18,17.99999999999991
+Clindamycin_I,Kenya,35,34.99999999999987
+Clindamycin_I,"Korea, South",863,862.9999999999941
+Clindamycin_I,Kuwait,511,510.99999999999926
+Clindamycin_I,Latvia,14,13.999999999999948
+Clindamycin_I,Lithuania,11,10.999999999999982
+Clindamycin_I,Malaysia,128,127.99999999999953
+Clindamycin_I,Mexico,1022,1021.9999999999968
+Clindamycin_I,Morocco,3,2.9999999999999716
+Clindamycin_I,Netherlands,78,77.9999999999997
+Clindamycin_I,Nigeria,13,12.999999999999865
+Clindamycin_I,Pakistan,11,10.999999999999943
+Clindamycin_I,Panama,26,25.999999999999876
+Clindamycin_I,Philippines,358,357.9999999999991
+Clindamycin_I,Poland,463,462.99999999999807
+Clindamycin_I,Portugal,306,305.9999999999989
+Clindamycin_I,Romania,77,76.99999999999969
+Clindamycin_I,Russia,533,532.9999999999978
+Clindamycin_I,Saudi Arabia,9,8.99999999999993
+Clindamycin_I,Serbia,5,4.9999999999999805
+Clindamycin_I,Singapore,14,13.999999999999954
+Clindamycin_I,South Africa,357,356.99999999999847
+Clindamycin_I,Spain,1013,1012.9999999999964
+Clindamycin_I,Sweden,70,69.99999999999983
+Clindamycin_I,Switzerland,27,26.999999999999943
+Clindamycin_I,Taiwan,1013,1012.9999999999965
+Clindamycin_I,Thailand,818,817.9999999999964
+Clindamycin_I,Turkey,257,256.99999999999864
+Clindamycin_I,Ukraine,18,17.999999999999964
+Clindamycin_I,United Kingdom,210,209.99999999999903
+Clindamycin_I,United States,1910,1909.9999999999889
+Clindamycin_I,Venezuela,208,207.99999999999932
+Clindamycin_I,Vietnam,6,5.999999999999979
+Erythromycin_I,Argentina,599,599.0000000000002
+Erythromycin_I,Australia,748,747.9999999999998
+Erythromycin_I,Austria,417,417.00000000000125
+Erythromycin_I,Belgium,1174,1174.0000000000043
+Erythromycin_I,Brazil,761,760.9999999999998
+Erythromycin_I,Canada,397,397.00000000000057
+Erythromycin_I,Chile,933,933.0000000000025
+Erythromycin_I,China,3082,3082.000000000007
+Erythromycin_I,Colombia,454,453.9999999999999
+Erythromycin_I,Costa Rica,57,57.00000000000021
+Erythromycin_I,Croatia,127,126.99999999999996
+Erythromycin_I,Czech Republic,996,995.9999999999999
+Erythromycin_I,Denmark,342,342.00000000000006
+Erythromycin_I,Dominican Republic,49,49.00000000000005
+Erythromycin_I,Finland,19,18.999999999999943
+Erythromycin_I,France,1711,1711.0000000000055
+Erythromycin_I,Germany,1611,1611.0000000000005
+Erythromycin_I,Greece,1112,1112.0000000000011
+Erythromycin_I,Guatemala,106,106.00000000000023
+Erythromycin_I,Hong Kong,228,228.00000000000006
+Erythromycin_I,Hungary,1271,1271.0000000000016
+Erythromycin_I,India,36,35.99999999999992
+Erythromycin_I,Ireland,247,247.00000000000003
+Erythromycin_I,Israel,1191,1191.0000000000034
+Erythromycin_I,Italy,1893,1893.0000000000061
+Erythromycin_I,Japan,874,874.0000000000008
+Erythromycin_I,Jordan,49,48.99999999999994
+Erythromycin_I,Kenya,102,102.0000000000003
+Erythromycin_I,"Korea, South",1298,1298.000000000001
+Erythromycin_I,Kuwait,1044,1043.9999999999982
+Erythromycin_I,Latvia,47,47.000000000000036
+Erythromycin_I,Lithuania,69,68.9999999999998
+Erythromycin_I,Malaysia,362,362.0000000000004
+Erythromycin_I,Mexico,1443,1442.9999999999943
+Erythromycin_I,Morocco,47,46.99999999999984
+Erythromycin_I,Netherlands,196,196.00000000000026
+Erythromycin_I,Nigeria,94,94.0000000000001
+Erythromycin_I,Pakistan,16,15.999999999999991
+Erythromycin_I,Panama,42,41.99999999999981
+Erythromycin_I,Philippines,541,540.9999999999997
+Erythromycin_I,Poland,733,733.0000000000001
+Erythromycin_I,Portugal,1549,1549.0000000000016
+Erythromycin_I,Romania,375,375.00000000000017
+Erythromycin_I,Russia,1107,1106.9999999999973
+Erythromycin_I,Saudi Arabia,45,45.00000000000034
+Erythromycin_I,Serbia,6,5.999999999999997
+Erythromycin_I,Singapore,37,36.9999999999999
+Erythromycin_I,South Africa,759,759.0000000000008
+Erythromycin_I,Spain,2152,2152.0000000000036
+Erythromycin_I,Sweden,138,138.00000000000003
+Erythromycin_I,Switzerland,79,79.00000000000006
+Erythromycin_I,Taiwan,1427,1427.0000000000048
+Erythromycin_I,Thailand,1009,1009.0000000000002
+Erythromycin_I,Turkey,706,706
+Erythromycin_I,Ukraine,67,67.00000000000009
+Erythromycin_I,United Kingdom,841,840.9999999999983
+Erythromycin_I,United States,5872,5872.000000000003
+Erythromycin_I,Venezuela,826,826.0000000000008
+Erythromycin_I,Vietnam,6,6.0000000000000195
+Levofloxacin_I,Argentina,1973,1973.0000000000193
+Levofloxacin_I,Australia,718,718.0000000000007
+Levofloxacin_I,Austria,694,694.0000000000082
+Levofloxacin_I,Belgium,2835,2835.000000000028
+Levofloxacin_I,Brazil,1786,1786.0000000000168
+Levofloxacin_I,Canada,1179,1179.000000000012
+Levofloxacin_I,Chile,2068,2068.0000000000123
+Levofloxacin_I,China,4978,4978.000000000023
+Levofloxacin_I,Colombia,1052,1052.000000000016
+Levofloxacin_I,Costa Rica,57,57.000000000000234
+Levofloxacin_I,Croatia,880,880.0000000000091
+Levofloxacin_I,Czech Republic,1846,1846.0000000000198
+Levofloxacin_I,Denmark,402,402.000000000005
+Levofloxacin_I,Dominican Republic,55,55.00000000000041
+Levofloxacin_I,Finland,94,94.00000000000023
+Levofloxacin_I,France,4633,4633.000000000056
+Levofloxacin_I,Germany,4874,4874.000000000073
+Levofloxacin_I,Greece,2770,2770.0000000000273
+Levofloxacin_I,Guatemala,544,544.0000000000025
+Levofloxacin_I,Hong Kong,329,329.0000000000017
+Levofloxacin_I,Hungary,2052,2052.00000000002
+Levofloxacin_I,India,956,956.0000000000097
+Levofloxacin_I,Ireland,625,625.0000000000038
+Levofloxacin_I,Israel,2022,2022.0000000000182
+Levofloxacin_I,Italy,8591,8591.000000000104
+Levofloxacin_I,Japan,929,929.0000000000095
+Levofloxacin_I,Jordan,200,200.00000000000108
+Levofloxacin_I,Kenya,165,164.9999999999996
+Levofloxacin_I,"Korea, South",2194,2194.0000000000214
+Levofloxacin_I,Kuwait,1644,1644.0000000000177
+Levofloxacin_I,Latvia,270,269.9999999999985
+Levofloxacin_I,Lithuania,250,250.00000000000492
+Levofloxacin_I,Malaysia,544,544.0000000000063
+Levofloxacin_I,Mexico,3639,3639.000000000044
+Levofloxacin_I,Morocco,300,300.0000000000042
+Levofloxacin_I,Netherlands,547,547.0000000000064
+Levofloxacin_I,Nigeria,529,529.000000000005
+Levofloxacin_I,Pakistan,288,288.000000000002
+Levofloxacin_I,Panama,388,388.00000000000347
+Levofloxacin_I,Philippines,1363,1363.000000000013
+Levofloxacin_I,Poland,1394,1394.0000000000132
+Levofloxacin_I,Portugal,3056,3056.0000000000286
+Levofloxacin_I,Romania,913,913.0000000000099
+Levofloxacin_I,Russia,2994,2994.000000000037
+Levofloxacin_I,Saudi Arabia,167,167.00000000000207
+Levofloxacin_I,Serbia,80,80.000000000001
+Levofloxacin_I,Singapore,125,125.00000000000115
+Levofloxacin_I,South Africa,1453,1453.0000000000143
+Levofloxacin_I,Spain,7188,7188.0000000001755
+Levofloxacin_I,Sweden,193,193.00000000000233
+Levofloxacin_I,Switzerland,446,446.00000000000296
+Levofloxacin_I,Taiwan,1561,1561.0000000000161
+Levofloxacin_I,Thailand,1823,1823.000000000014
+Levofloxacin_I,Turkey,1424,1424.0000000000148
+Levofloxacin_I,Ukraine,180,180.00000000000003
+Levofloxacin_I,United Kingdom,1370,1370.0000000000118
+Levofloxacin_I,United States,14035,14035.000000000162
+Levofloxacin_I,Venezuela,1458,1458.0000000000114
+Levofloxacin_I,Vietnam,74,74.00000000000081
+Linezolid_I,Argentina,1,0.9999999999999972
+Linezolid_I,Austria,1,0.9999999999999999
+Linezolid_I,Belgium,2,2.0000000000000013
+Linezolid_I,Brazil,3,3.0000000000000004
+Linezolid_I,Canada,1,1.0000000000000004
+Linezolid_I,Chile,1,1.0000000000000004
+Linezolid_I,China,6,6
+Linezolid_I,Colombia,2,2.000000000000001
+Linezolid_I,Croatia,2,1.9999999999999996
+Linezolid_I,France,18,17.999999999999993
+Linezolid_I,Germany,13,13.00000000000001
+Linezolid_I,Greece,7,6.999999999999996
+Linezolid_I,Hungary,1,1
+Linezolid_I,India,3,3.000000000000002
+Linezolid_I,Ireland,1,1.0000000000000016
+Linezolid_I,Italy,14,14.000000000000004
+Linezolid_I,Kuwait,1,1
+Linezolid_I,Malaysia,1,0.9999999999999999
+Linezolid_I,Mexico,3,3
+Linezolid_I,Netherlands,1,1.0000000000000027
+Linezolid_I,Panama,1,0.9999999999999991
+Linezolid_I,Philippines,2,2.000000000000005
+Linezolid_I,Poland,3,3.000000000000001
+Linezolid_I,Portugal,3,3.000000000000001
+Linezolid_I,Romania,4,4
+Linezolid_I,Russia,3,2.9999999999999987
+Linezolid_I,South Africa,4,4
+Linezolid_I,Spain,40,40.00000000000004
+Linezolid_I,Thailand,1,0.9999999999999999
+Linezolid_I,Ukraine,1,1.0000000000000004
+Linezolid_I,United States,12,12.000000000000007
+Linezolid_I,Venezuela,5,5.000000000000004
+Meropenem_I,Argentina,543,542.9999999999994
+Meropenem_I,Australia,119,118.9999999999999
+Meropenem_I,Austria,72,71.99999999999947
+Meropenem_I,Belgium,452,451.9999999999983
+Meropenem_I,Brazil,599,598.9999999999985
+Meropenem_I,Canada,168,167.9999999999998
+Meropenem_I,Chile,406,405.99999999999955
+Meropenem_I,China,1566,1565.999999999998
+Meropenem_I,Colombia,449,448.99999999999886
+Meropenem_I,Costa Rica,8,7.999999999999985
+Meropenem_I,Croatia,367,366.99999999999903
+Meropenem_I,Czech Republic,293,292.99999999999767
+Meropenem_I,Denmark,28,27.999999999999915
+Meropenem_I,Dominican Republic,5,4.999999999999989
+Meropenem_I,Finland,11,10.999999999999936
+Meropenem_I,France,575,574.9999999999973
+Meropenem_I,Germany,625,624.9999999999974
+Meropenem_I,Greece,1075,1075
+Meropenem_I,Guatemala,212,211.99999999999994
+Meropenem_I,Hong Kong,106,105.9999999999995
+Meropenem_I,Hungary,373,372.9999999999993
+Meropenem_I,India,376,375.9999999999995
+Meropenem_I,Ireland,95,94.9999999999999
+Meropenem_I,Israel,294,293.99999999999915
+Meropenem_I,Italy,2483,2482.999999999992
+Meropenem_I,Japan,81,80.99999999999986
+Meropenem_I,Jordan,101,100.99999999999946
+Meropenem_I,Kenya,40,39.999999999999744
+Meropenem_I,"Korea, South",444,443.9999999999989
+Meropenem_I,Kuwait,461,460.99999999999875
+Meropenem_I,Latvia,78,77.99999999999984
+Meropenem_I,Lithuania,80,79.99999999999952
+Meropenem_I,Malaysia,158,157.99999999999935
+Meropenem_I,Mexico,813,812.9999999999987
+Meropenem_I,Morocco,103,103.0000000000001
+Meropenem_I,Netherlands,34,33.999999999999865
+Meropenem_I,Nigeria,80,79.99999999999973
+Meropenem_I,Pakistan,83,82.99999999999974
+Meropenem_I,Panama,70,70.00000000000024
+Meropenem_I,Philippines,325,324.9999999999987
+Meropenem_I,Poland,253,252.9999999999991
+Meropenem_I,Portugal,562,561.9999999999984
+Meropenem_I,Romania,350,349.99999999999847
+Meropenem_I,Russia,863,862.9999999999957
+Meropenem_I,Saudi Arabia,68,67.99999999999967
+Meropenem_I,Serbia,43,42.99999999999999
+Meropenem_I,Singapore,31,30.999999999999723
+Meropenem_I,South Africa,443,442.99999999999835
+Meropenem_I,Spain,1463,1462.9999999999984
+Meropenem_I,Sweden,29,28.99999999999993
+Meropenem_I,Switzerland,33,32.99999999999988
+Meropenem_I,Taiwan,346,345.99999999999915
+Meropenem_I,Thailand,382,381.99999999999886
+Meropenem_I,Turkey,542,541.999999999997
+Meropenem_I,Ukraine,79,78.99999999999973
+Meropenem_I,United Kingdom,176,175.9999999999991
+Meropenem_I,United States,1641,1640.999999999996
+Meropenem_I,Venezuela,330,329.99999999999915
+Meropenem_I,Vietnam,39,38.99999999999993
+Minocycline_I,Argentina,222,221.9999999999976
+Minocycline_I,Australia,78,77.99999999999956
+Minocycline_I,Austria,58,57.99999999999964
+Minocycline_I,Belgium,455,454.99999999999767
+Minocycline_I,Brazil,99,98.99999999999983
+Minocycline_I,Canada,262,261.99999999999886
+Minocycline_I,Chile,128,127.99999999999942
+Minocycline_I,China,467,466.9999999999963
+Minocycline_I,Colombia,186,185.9999999999993
+Minocycline_I,Croatia,167,166.99999999999923
+Minocycline_I,Czech Republic,144,143.99999999999923
+Minocycline_I,Denmark,149,148.99999999999926
+Minocycline_I,Finland,56,55.99999999999975
+Minocycline_I,France,909,908.9999999999959
+Minocycline_I,Germany,810,809.9999999999956
+Minocycline_I,Greece,222,221.99999999999898
+Minocycline_I,Guatemala,59,58.999999999999744
+Minocycline_I,Hong Kong,50,49.99999999999987
+Minocycline_I,Hungary,135,134.9999999999994
+Minocycline_I,India,50,49.99999999999971
+Minocycline_I,Ireland,118,117.99999999999945
+Minocycline_I,Israel,49,48.99999999999973
+Minocycline_I,Italy,1146,1145.9999999999918
+Minocycline_I,Japan,205,204.999999999999
+Minocycline_I,Jordan,40,39.99999999999979
+Minocycline_I,Kenya,14,13.999999999999943
+Minocycline_I,"Korea, South",376,375.99999999999784
+Minocycline_I,Kuwait,113,112.99999999999923
+Minocycline_I,Latvia,46,45.99999999999993
+Minocycline_I,Lithuania,19,18.99999999999992
+Minocycline_I,Malaysia,35,34.99999999999969
+Minocycline_I,Mexico,224,223.99999999999892
+Minocycline_I,Morocco,45,44.99999999999968
+Minocycline_I,Netherlands,59,58.9999999999998
+Minocycline_I,Nigeria,13,12.999999999999947
+Minocycline_I,Pakistan,94,93.99999999999939
+Minocycline_I,Panama,79,78.9999999999996
+Minocycline_I,Philippines,99,98.99999999999949
+Minocycline_I,Poland,100,99.99999999999949
+Minocycline_I,Portugal,280,279.99999999999875
+Minocycline_I,Romania,82,81.99999999999943
+Minocycline_I,Russia,140,139.99999999999937
+Minocycline_I,Saudi Arabia,35,34.99999999999965
+Minocycline_I,Serbia,12,11.999999999999952
+Minocycline_I,Singapore,31,30.999999999999986
+Minocycline_I,South Africa,151,150.99999999999926
+Minocycline_I,Spain,1069,1068.9999999999961
+Minocycline_I,Sweden,35,34.99999999999993
+Minocycline_I,Switzerland,95,94.99999999999964
+Minocycline_I,Taiwan,169,168.99999999999903
+Minocycline_I,Thailand,241,240.99999999999895
+Minocycline_I,Turkey,135,134.99999999999972
+Minocycline_I,United Kingdom,229,228.99999999999903
+Minocycline_I,United States,3077,3076.999999999986
+Minocycline_I,Venezuela,131,130.99999999999903
+Minocycline_I,Vietnam,24,23.999999999999854
+Penicillin_I,Argentina,51,50.99999999999992
+Penicillin_I,Australia,66,65.99999999999997
+Penicillin_I,Austria,11,10.999999999999988
+Penicillin_I,Belgium,248,247.9999999999999
+Penicillin_I,Brazil,42,42.000000000000014
+Penicillin_I,Canada,190,189.99999999999997
+Penicillin_I,Chile,98,98.00000000000001
+Penicillin_I,China,347,346.9999999999999
+Penicillin_I,Colombia,52,51.99999999999997
+Penicillin_I,Croatia,59,58.9999999999999
+Penicillin_I,Czech Republic,113,112.99999999999963
+Penicillin_I,Denmark,35,34.99999999999994
+Penicillin_I,Dominican Republic,1,1
+Penicillin_I,Finland,17,17
+Penicillin_I,France,464,463.9999999999996
+Penicillin_I,Germany,542,542
+Penicillin_I,Greece,73,72.99999999999993
+Penicillin_I,Guatemala,5,5.000000000000001
+Penicillin_I,Hong Kong,68,67.9999999999998
+Penicillin_I,Hungary,99,98.99999999999984
+Penicillin_I,India,40,39.99999999999996
+Penicillin_I,Ireland,79,78.99999999999991
+Penicillin_I,Israel,73,72.99999999999999
+Penicillin_I,Italy,330,329.9999999999999
+Penicillin_I,Japan,53,53
+Penicillin_I,Jordan,15,14.999999999999986
+Penicillin_I,Kenya,16,15.999999999999977
+Penicillin_I,"Korea, South",244,244
+Penicillin_I,Kuwait,103,102.99999999999991
+Penicillin_I,Latvia,20,19.99999999999999
+Penicillin_I,Lithuania,16,15.999999999999954
+Penicillin_I,Malaysia,33,32.999999999999964
+Penicillin_I,Mexico,115,115.00000000000007
+Penicillin_I,Morocco,11,10.999999999999993
+Penicillin_I,Netherlands,27,26.999999999999968
+Penicillin_I,Pakistan,24,24.000000000000014
+Penicillin_I,Panama,14,13.999999999999956
+Penicillin_I,Philippines,14,13.999999999999996
+Penicillin_I,Poland,43,42.999999999999936
+Penicillin_I,Portugal,134,133.99999999999994
+Penicillin_I,Romania,30,29.99999999999996
+Penicillin_I,Russia,74,73.99999999999996
+Penicillin_I,Saudi Arabia,18,17.999999999999986
+Penicillin_I,Serbia,18,18
+Penicillin_I,Singapore,8,8.000000000000002
+Penicillin_I,South Africa,143,142.99999999999991
+Penicillin_I,Spain,652,651.9999999999997
+Penicillin_I,Sweden,24,23.999999999999986
+Penicillin_I,Switzerland,78,78.00000000000003
+Penicillin_I,Taiwan,246,245.9999999999996
+Penicillin_I,Thailand,121,120.99999999999999
+Penicillin_I,Turkey,76,75.99999999999994
+Penicillin_I,Ukraine,1,0.9999999999999991
+Penicillin_I,United Kingdom,107,106.99999999999999
+Penicillin_I,United States,1362,1362.0000000000018
+Penicillin_I,Venezuela,26,25.999999999999897
+Penicillin_I,Vietnam,9,8.999999999999993
+Piperacillin tazobactam_I,Argentina,1192,1191.9999999999957
+Piperacillin tazobactam_I,Australia,311,311.0000000000005
+Piperacillin tazobactam_I,Austria,199,199.0000000000006
+Piperacillin tazobactam_I,Belgium,1180,1180.000000000004
+Piperacillin tazobactam_I,Brazil,915,915.0000000000027
+Piperacillin tazobactam_I,Canada,390,390.0000000000019
+Piperacillin tazobactam_I,Chile,788,788.0000000000038
+Piperacillin tazobactam_I,China,2066,2066.0000000000105
+Piperacillin tazobactam_I,Colombia,740,740.0000000000053
+Piperacillin tazobactam_I,Costa Rica,27,27.000000000000224
+Piperacillin tazobactam_I,Croatia,488,488.0000000000033
+Piperacillin tazobactam_I,Czech Republic,635,635.0000000000032
+Piperacillin tazobactam_I,Denmark,173,173.0000000000006
+Piperacillin tazobactam_I,Dominican Republic,5,5.000000000000013
+Piperacillin tazobactam_I,Finland,33,32.99999999999995
+Piperacillin tazobactam_I,France,1818,1818.0000000000057
+Piperacillin tazobactam_I,Germany,1547,1547.0000000000023
+Piperacillin tazobactam_I,Greece,1325,1325.0000000000114
+Piperacillin tazobactam_I,Guatemala,280,280.00000000000136
+Piperacillin tazobactam_I,Hong Kong,105,105.00000000000033
+Piperacillin tazobactam_I,Hungary,622,622.0000000000052
+Piperacillin tazobactam_I,India,504,504.0000000000041
+Piperacillin tazobactam_I,Ireland,271,271.0000000000027
+Piperacillin tazobactam_I,Israel,552,552.0000000000033
+Piperacillin tazobactam_I,Italy,3677,3677.000000000032
+Piperacillin tazobactam_I,Japan,148,147.99999999999991
+Piperacillin tazobactam_I,Jordan,109,109.00000000000038
+Piperacillin tazobactam_I,Kenya,61,61.0000000000008
+Piperacillin tazobactam_I,"Korea, South",607,607.0000000000041
+Piperacillin tazobactam_I,Kuwait,630,630.000000000003
+Piperacillin tazobactam_I,Latvia,128,128.00000000000153
+Piperacillin tazobactam_I,Lithuania,164,164.00000000000074
+Piperacillin tazobactam_I,Malaysia,202,201.99999999999997
+Piperacillin tazobactam_I,Mexico,1243,1243.000000000001
+Piperacillin tazobactam_I,Morocco,199,199.0000000000011
+Piperacillin tazobactam_I,Netherlands,122,121.99999999999977
+Piperacillin tazobactam_I,Nigeria,220,220.00000000000057
+Piperacillin tazobactam_I,Pakistan,141,141.00000000000063
+Piperacillin tazobactam_I,Panama,129,129.00000000000057
+Piperacillin tazobactam_I,Philippines,608,608.0000000000027
+Piperacillin tazobactam_I,Poland,616,616.0000000000024
+Piperacillin tazobactam_I,Portugal,1204,1204.0000000000061
+Piperacillin tazobactam_I,Romania,491,491.00000000000347
+Piperacillin tazobactam_I,Russia,1400,1400.0000000000036
+Piperacillin tazobactam_I,Saudi Arabia,84,84.00000000000004
+Piperacillin tazobactam_I,Serbia,52,52.0000000000002
+Piperacillin tazobactam_I,Singapore,64,64.0000000000006
+Piperacillin tazobactam_I,South Africa,626,626
+Piperacillin tazobactam_I,Spain,2576,2576.000000000023
+Piperacillin tazobactam_I,Sweden,63,63.00000000000032
+Piperacillin tazobactam_I,Switzerland,131,131.0000000000006
+Piperacillin tazobactam_I,Taiwan,589,589.0000000000002
+Piperacillin tazobactam_I,Thailand,611,611.0000000000035
+Piperacillin tazobactam_I,Turkey,916,916.0000000000007
+Piperacillin tazobactam_I,Ukraine,108,108.00000000000028
+Piperacillin tazobactam_I,United Kingdom,539,538.9999999999999
+Piperacillin tazobactam_I,United States,4053,4053.000000000012
+Piperacillin tazobactam_I,Venezuela,482,482.0000000000045
+Piperacillin tazobactam_I,Vietnam,33,33.000000000000405
+Tigecycline_I,Argentina,19,18.999999999999968
+Tigecycline_I,Australia,6,6.000000000000007
+Tigecycline_I,Austria,13,12.999999999999993
+Tigecycline_I,Belgium,26,25.999999999999996
+Tigecycline_I,Brazil,12,12.000000000000012
+Tigecycline_I,Canada,10,10
+Tigecycline_I,Chile,10,9.999999999999996
+Tigecycline_I,China,77,77.00000000000004
+Tigecycline_I,Colombia,6,5.999999999999998
+Tigecycline_I,Croatia,6,5.999999999999998
+Tigecycline_I,Czech Republic,21,20.999999999999996
+Tigecycline_I,Denmark,7,6.999999999999995
+Tigecycline_I,Dominican Republic,1,1
+Tigecycline_I,France,39,39.00000000000002
+Tigecycline_I,Germany,43,43
+Tigecycline_I,Greece,66,65.99999999999999
+Tigecycline_I,Guatemala,1,1.0000000000000049
+Tigecycline_I,Hong Kong,1,0.9999999999999991
+Tigecycline_I,Hungary,18,17.999999999999982
+Tigecycline_I,India,4,3.9999999999999964
+Tigecycline_I,Ireland,7,6.999999999999993
+Tigecycline_I,Israel,27,26.999999999999986
+Tigecycline_I,Italy,70,70.00000000000006
+Tigecycline_I,Japan,4,4.0000000000000036
+Tigecycline_I,Jordan,1,1.0000000000000004
+Tigecycline_I,Kenya,3,3.000000000000005
+Tigecycline_I,"Korea, South",12,12
+Tigecycline_I,Kuwait,13,12.999999999999993
+Tigecycline_I,Malaysia,4,4.0000000000000036
+Tigecycline_I,Mexico,21,21.00000000000001
+Tigecycline_I,Morocco,1,1.0000000000000016
+Tigecycline_I,Netherlands,6,6.0000000000000036
+Tigecycline_I,Nigeria,2,2.0000000000000058
+Tigecycline_I,Pakistan,1,1.0000000000000004
+Tigecycline_I,Panama,2,2.000000000000001
+Tigecycline_I,Philippines,10,9.999999999999998
+Tigecycline_I,Poland,12,11.999999999999998
+Tigecycline_I,Portugal,12,12.000000000000002
+Tigecycline_I,Romania,15,14.999999999999996
+Tigecycline_I,Russia,17,17
+Tigecycline_I,South Africa,11,11
+Tigecycline_I,Spain,41,41.00000000000001
+Tigecycline_I,Sweden,6,6.000000000000004
+Tigecycline_I,Switzerland,2,2.000000000000006
+Tigecycline_I,Taiwan,25,25
+Tigecycline_I,Thailand,12,11.999999999999996
+Tigecycline_I,Turkey,10,9.999999999999996
+Tigecycline_I,Ukraine,5,5.000000000000005
+Tigecycline_I,United Kingdom,10,9.999999999999991
+Tigecycline_I,United States,162,162
+Tigecycline_I,Venezuela,8,7.999999999999995
+Tigecycline_I,Vietnam,1,0.9999999999999989
+Vancomycin_I,Argentina,47,46.999999999999964
+Vancomycin_I,Australia,17,17.00000000000004
+Vancomycin_I,Austria,2,2.0000000000000013
+Vancomycin_I,Belgium,23,23.00000000000003
+Vancomycin_I,Brazil,45,45.00000000000007
+Vancomycin_I,Canada,116,116.00000000000028
+Vancomycin_I,Chile,61,61.000000000000085
+Vancomycin_I,China,11,11.000000000000004
+Vancomycin_I,Colombia,16,16.000000000000014
+Vancomycin_I,Croatia,19,19.00000000000003
+Vancomycin_I,Czech Republic,19,19.00000000000002
+Vancomycin_I,Denmark,13,13.000000000000028
+Vancomycin_I,France,3,3.0000000000000036
+Vancomycin_I,Germany,125,125.00000000000037
+Vancomycin_I,Greece,60,60.00000000000006
+Vancomycin_I,Guatemala,1,1.0000000000000018
+Vancomycin_I,Hungary,25,25.000000000000014
+Vancomycin_I,India,12,12.00000000000001
+Vancomycin_I,Ireland,58,58.00000000000005
+Vancomycin_I,Israel,6,5.999999999999997
+Vancomycin_I,Italy,103,103
+Vancomycin_I,Jordan,3,3.000000000000005
+Vancomycin_I,"Korea, South",31,31.00000000000006
+Vancomycin_I,Kuwait,5,5.0000000000000036
+Vancomycin_I,Latvia,13,13.000000000000005
+Vancomycin_I,Lithuania,8,8.000000000000012
+Vancomycin_I,Malaysia,3,3.000000000000003
+Vancomycin_I,Mexico,77,77.00000000000009
+Vancomycin_I,Pakistan,13,13.000000000000018
+Vancomycin_I,Panama,8,8.000000000000018
+Vancomycin_I,Philippines,4,4.000000000000017
+Vancomycin_I,Poland,22,22.000000000000043
+Vancomycin_I,Portugal,44,44.00000000000006
+Vancomycin_I,Romania,20,20.000000000000025
+Vancomycin_I,Russia,9,9.000000000000014
+Vancomycin_I,Saudi Arabia,7,7.0000000000000115
+Vancomycin_I,Serbia,11,11.000000000000018
+Vancomycin_I,Singapore,5,5.000000000000006
+Vancomycin_I,South Africa,2,2.0000000000000084
+Vancomycin_I,Spain,8,8.000000000000009
+Vancomycin_I,Switzerland,1,1.0000000000000027
+Vancomycin_I,Taiwan,39,39.00000000000003
+Vancomycin_I,Thailand,11,11.000000000000007
+Vancomycin_I,Turkey,12,12.00000000000001
+Vancomycin_I,United Kingdom,33,33.00000000000003
+Vancomycin_I,United States,937,937.0000000000013
+Vancomycin_I,Venezuela,7,7.000000000000001
+Vancomycin_I,Vietnam,1,1.0000000000000036

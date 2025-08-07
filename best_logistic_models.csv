@@ -1,0 +1,17 @@
+Drug,Model,AIC,N
+Amikacin_I,Species+Country+Gender+Age,82593.3100520883,216833
+Amoxycillin clavulanate_I,Species+Country+Gender+Age,122939.452607399,191460
+Ampicillin_I,Species+Country+Gender+Age,162132.840382578,199502
+Cefepime_I,Species+Country+Gender+Age,158461.872753476,225810
+Ceftazidime_I,Species+Country+Gender+Age,177472.878339383,210108
+Ceftriaxone_I,Species+Country+Gender+Age,120035.197200275,167959
+Clindamycin_I,Species+Country+Gender+Age,95667.0590589052,100147
+Erythromycin_I,Species+Country+Gender+Age,121648.522544508,101173
+Levofloxacin_I,Species+Country+Gender+Age,350362.727380999,378097
+Linezolid_I,Species+Country+Gender,2156.93783727985,145622
+Meropenem_I,Species+Country+Gender+Age,95741.093917258,246707
+Minocycline_I,Species+Country+Gender+Age,73738.5387311311,200609
+Penicillin_I,Species+Country+Gender+Age,22003.0611824273,55761
+Piperacillin tazobactam_I,Species+Country+Gender+Age,174063.8910572,236346
+Tigecycline_I,Species+Country,9851.9042770805,323667
+Vancomycin_I,Species+Country+Gender+Age,7806.84558479477,145622

@@ -1,0 +1,12 @@
+name: amr_navigator
+title:
+username: bioinforma
+account: bioinforma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15156348
+bundleId: 10721609
+url: https://bioinforma.shinyapps.io/amr_navigator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

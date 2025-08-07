@@ -1,0 +1,65 @@
+"Drug","Model","AIC","N"
+"Amikacin_I","Species",92051.1407518342,216833
+"Amikacin_I","Species+Country",82784.8757394211,216833
+"Amikacin_I","Species+Country+Gender",82723.3253692154,216833
+"Amikacin_I","Species+Country+Gender+Age",82593.3100520883,216833
+"Amoxycillin clavulanate_I","Species",125948.207503482,191460
+"Amoxycillin clavulanate_I","Species+Country",123070.259800132,191460
+"Amoxycillin clavulanate_I","Species+Country+Gender",122979.256928102,191460
+"Amoxycillin clavulanate_I","Species+Country+Gender+Age",122939.452607399,191460
+"Ampicillin_I","Species",164690.639029125,199502
+"Ampicillin_I","Species+Country",162213.346117882,199502
+"Ampicillin_I","Species+Country+Gender",162141.215151195,199502
+"Ampicillin_I","Species+Country+Gender+Age",162132.840382578,199502
+"Cefepime_I","Species",172747.362646536,225810
+"Cefepime_I","Species+Country",159116.276126867,225810
+"Cefepime_I","Species+Country+Gender",158904.748966121,225810
+"Cefepime_I","Species+Country+Gender+Age",158461.872753476,225810
+"Ceftazidime_I","Species",187390.42314816,210108
+"Ceftazidime_I","Species+Country",178038.337292701,210108
+"Ceftazidime_I","Species+Country+Gender",177843.874891618,210108
+"Ceftazidime_I","Species+Country+Gender+Age",177472.878339383,210108
+"Ceftriaxone_I","Species",126939.228517114,167959
+"Ceftriaxone_I","Species+Country",120345.091449418,167959
+"Ceftriaxone_I","Species+Country+Gender",120243.701832897,167959
+"Ceftriaxone_I","Species+Country+Gender+Age",120035.197200275,167959
+"Clindamycin_I","Species",102589.849747619,100147
+"Clindamycin_I","Species+Country",95901.094270397,100147
+"Clindamycin_I","Species+Country+Gender",95877.2384842624,100147
+"Clindamycin_I","Species+Country+Gender+Age",95667.0590589052,100147
+"Erythromycin_I","Species",127833.40053324,101173
+"Erythromycin_I","Species+Country",121811.593417241,101173
+"Erythromycin_I","Species+Country+Gender",121800.120663029,101173
+"Erythromycin_I","Species+Country+Gender+Age",121648.522544508,101173
+"Levofloxacin_I","Species",365211.904524651,378097
+"Levofloxacin_I","Species+Country",356399.815917307,378097
+"Levofloxacin_I","Species+Country+Gender",356128.081791798,378097
+"Levofloxacin_I","Species+Country+Gender+Age",350362.727380999,378097
+"Linezolid_I","Species",2189.72585234062,145622
+"Linezolid_I","Species+Country",2159.53335923097,145622
+"Linezolid_I","Species+Country+Gender",2156.93783727985,145622
+"Linezolid_I","Species+Country+Gender+Age",2159.62961643462,145622
+"Meropenem_I","Species",102996.11232747,246707
+"Meropenem_I","Species+Country",96104.3413876246,246707
+"Meropenem_I","Species+Country+Gender",95960.526719403,246707
+"Meropenem_I","Species+Country+Gender+Age",95741.093917258,246707
+"Minocycline_I","Species",75368.708244226,200609
+"Minocycline_I","Species+Country",73752.2044044901,200609
+"Minocycline_I","Species+Country+Gender",73754.1915103564,200609
+"Minocycline_I","Species+Country+Gender+Age",73738.5387311311,200609
+"Penicillin_I","Species",23877.3832307654,55761
+"Penicillin_I","Species+Country",22038.6271748567,55761
+"Penicillin_I","Species+Country+Gender",22029.4971777934,55761
+"Penicillin_I","Species+Country+Gender+Age",22003.0611824273,55761
+"Piperacillin tazobactam_I","Species",181280.672558741,236346
+"Piperacillin tazobactam_I","Species+Country",174628.723392105,236346
+"Piperacillin tazobactam_I","Species+Country+Gender",174477.112088671,236346
+"Piperacillin tazobactam_I","Species+Country+Gender+Age",174063.8910572,236346
+"Tigecycline_I","Species",9979.21368074759,323667
+"Tigecycline_I","Species+Country",9851.9042770805,323667
+"Tigecycline_I","Species+Country+Gender",9853.89933209167,323667
+"Tigecycline_I","Species+Country+Gender+Age",9854.19739646977,323667
+"Vancomycin_I","Species",10008.2769368463,145622
+"Vancomycin_I","Species+Country",7840.40984081008,145622
+"Vancomycin_I","Species+Country+Gender",7842.37023009793,145622
+"Vancomycin_I","Species+Country+Gender+Age",7806.84558479477,145622

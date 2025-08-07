@@ -1,0 +1,902 @@
+Drug,Species,Total_Observed,Total_Predicted
+Amikacin_I,Achromobacter xylosoxidans,6,6.000000000000032
+Amikacin_I,Acinetobacter anitratus,2,1.999999999999998
+Amikacin_I,Acinetobacter baumannii,5428,5428.000000000017
+Amikacin_I,Acinetobacter bereziniae,2,1.9999999999999885
+Amikacin_I,Acinetobacter calcoaceticus,1,1.0000000000000144
+Amikacin_I,Acinetobacter dijkshoorniae,2,1.9999999999999252
+Amikacin_I,Acinetobacter guillouiae,1,1.0000000000000093
+Amikacin_I,Acinetobacter haemolyticus,8,7.999999999999954
+Amikacin_I,Acinetobacter johnsonii,3,2.9999999999999885
+Amikacin_I,Acinetobacter junii,3,2.999999999999975
+Amikacin_I,Acinetobacter lwoffii,2,2.0000000000000124
+Amikacin_I,Acinetobacter nosocomialis,65,65.00000000000047
+Amikacin_I,Acinetobacter pitii,35,34.999999999999915
+Amikacin_I,Acinetobacter radioresistens,1,1
+Amikacin_I,Acinetobacter ursingii,7,6.999999999999769
+Amikacin_I,"Acinetobacter, non-speciated",193,193.00000000000003
+Amikacin_I,Citrobacter amalonaticus,2,2.0000000000000004
+Amikacin_I,Citrobacter braakii,1,0.9999999999999963
+Amikacin_I,Citrobacter farmeri,2,1.9999999999999918
+Amikacin_I,Citrobacter freundii,87,86.99999999999996
+Amikacin_I,Citrobacter koseri,15,14.999999999999899
+Amikacin_I,Citrobacter sedlakii,2,1.9999999999999756
+Amikacin_I,"Citrobacter, non-speciated",9,8.999999999999986
+Amikacin_I,Enterobacter agglomerans,10,9.99999999999988
+Amikacin_I,Enterobacter asburiae,13,13.00000000000001
+Amikacin_I,Enterobacter cloacae,570,569.999999999998
+Amikacin_I,Enterobacter kobei,11,10.999999999999984
+Amikacin_I,"Enterobacter, non-speciated",11,11.000000000000021
+Amikacin_I,Escherichia coli,1705,1705
+Amikacin_I,Klebsiella aerogenes,139,139.0000000000004
+Amikacin_I,Klebsiella oxytoca,111,110.99999999999999
+Amikacin_I,Klebsiella planticola,2,1.999999999999995
+Amikacin_I,Klebsiella pneumoniae,3393,3393.000000000035
+Amikacin_I,Klebsiella variicola,4,3.9999999999999734
+Amikacin_I,"Klebsiella, non-speciated",24,23.999999999999712
+Amikacin_I,Morganella morganii,68,68
+Amikacin_I,Myroides odoratimimus,1,1.000000000000003
+Amikacin_I,Pantoea dispersa,1,0.9999999999999966
+Amikacin_I,Proteus hauseri,5,4.999999999999987
+Amikacin_I,Proteus mirabilis,398,397.9999999999997
+Amikacin_I,Proteus penneri,1,0.9999999999999999
+Amikacin_I,Proteus vulgaris,31,30.99999999999973
+Amikacin_I,Providencia rettgeri,45,45.0000000000001
+Amikacin_I,Providencia stuartii,93,92.99999999999976
+Amikacin_I,"Providencia, non-speciated",5,5.000000000000005
+Amikacin_I,Pseudomonas aeruginosa,2420,2419.9999999999914
+Amikacin_I,Raoultella ornithinolytica,3,2.999999999999936
+Amikacin_I,Serratia liquefaciens,2,1.999999999999985
+Amikacin_I,Serratia marcescens,343,342.9999999999971
+Amikacin_I,Serratia ureilytica,3,2.999999999999954
+Amikacin_I,"Serratia, non-speciated",1,0.9999999999999838
+Amoxycillin clavulanate_I,Citrobacter amalonaticus,16,15.999999999999975
+Amoxycillin clavulanate_I,Citrobacter braakii,225,224.99999999999926
+Amoxycillin clavulanate_I,Citrobacter diversus,2,2.0000000000000027
+Amoxycillin clavulanate_I,Citrobacter farmeri,9,8.99999999999999
+Amoxycillin clavulanate_I,Citrobacter freundii,3449,3448.999999999984
+Amoxycillin clavulanate_I,Citrobacter koseri,113,113.00000000000045
+Amoxycillin clavulanate_I,Citrobacter murliniae,5,4.999999999999955
+Amoxycillin clavulanate_I,Citrobacter sedlakii,5,4.999999999999963
+Amoxycillin clavulanate_I,Citrobacter spp,3,2.9999999999999925
+Amoxycillin clavulanate_I,Citrobacter youngae,2,1.9999999999999984
+Amoxycillin clavulanate_I,"Citrobacter, non-speciated",87,86.99999999999906
+Amoxycillin clavulanate_I,Enterobacter agglomerans,41,41.00000000000011
+Amoxycillin clavulanate_I,Enterobacter asburiae,1430,1429.9999999999895
+Amoxycillin clavulanate_I,Enterobacter bugandensis,10,9.999999999999986
+Amoxycillin clavulanate_I,Enterobacter cancerogenus,12,12.000000000000012
+Amoxycillin clavulanate_I,Enterobacter cloacae,18452,18451.99999999941
+Amoxycillin clavulanate_I,Enterobacter hormaechi,34,34.000000000000036
+Amoxycillin clavulanate_I,Enterobacter intermedium,3,2.9999999999999942
+Amoxycillin clavulanate_I,Enterobacter kobei,655,655.0000000000035
+Amoxycillin clavulanate_I,Enterobacter ludwigii,158,158.00000000000125
+Amoxycillin clavulanate_I,Enterobacter sakazakii,14,14.00000000000004
+Amoxycillin clavulanate_I,Enterobacter spp,7,7.000000000000072
+Amoxycillin clavulanate_I,Enterobacter taylorae,4,3.9999999999999396
+Amoxycillin clavulanate_I,Enterobacter xiangfangensis,12,12.000000000000057
+Amoxycillin clavulanate_I,"Enterobacter, non-speciated",606,606.000000000001
+Amoxycillin clavulanate_I,Escherichia coli,6141,6141.000000000014
+Amoxycillin clavulanate_I,Haemophilus influenzae,107,107.00000000000088
+Amoxycillin clavulanate_I,Haemophilus parainfluenzae,5,5.000000000000203
+Amoxycillin clavulanate_I,Hafnia alvei,2,1.9999999999999887
+Amoxycillin clavulanate_I,Klebsiella aerogenes,7333,7332.999999999904
+Amoxycillin clavulanate_I,Klebsiella ornithinolytica,2,2.0000000000000084
+Amoxycillin clavulanate_I,Klebsiella oxytoca,789,789.0000000000034
+Amoxycillin clavulanate_I,Klebsiella ozaenae,1,0.9999999999999997
+Amoxycillin clavulanate_I,Klebsiella planticola,1,1.0000000000000073
+Amoxycillin clavulanate_I,Klebsiella pneumoniae,9456,9456.000000000064
+Amoxycillin clavulanate_I,Klebsiella variicola,55,55.00000000000044
+Amoxycillin clavulanate_I,"Klebsiella, non-speciated",50,50.00000000000081
+Amoxycillin clavulanate_I,Lelliottia amnigena,27,27.00000000000009
+Amoxycillin clavulanate_I,Morganella morganii,2419,2419.000000000033
+Amoxycillin clavulanate_I,Pantoea dispersa,1,0.9999999999999958
+Amoxycillin clavulanate_I,Pluralibacter gergoviae,6,5.999999999999983
+Amoxycillin clavulanate_I,Proteus hauseri,15,15.000000000000014
+Amoxycillin clavulanate_I,Proteus mirabilis,370,370.0000000000012
+Amoxycillin clavulanate_I,Proteus penneri,3,3.000000000000046
+Amoxycillin clavulanate_I,Proteus rettgeri,1,0.9999999999999845
+Amoxycillin clavulanate_I,Proteus vulgaris,70,69.99999999999973
+Amoxycillin clavulanate_I,Providencia alcalifaciens,18,18.00000000000001
+Amoxycillin clavulanate_I,Providencia rettgeri,425,424.9999999999951
+Amoxycillin clavulanate_I,Providencia spp,1,1.0000000000000087
+Amoxycillin clavulanate_I,Providencia stuartii,829,829.0000000000103
+Amoxycillin clavulanate_I,"Providencia, non-speciated",41,41.00000000000017
+Amoxycillin clavulanate_I,Raoultella ornithinolytica,12,11.999999999999764
+Amoxycillin clavulanate_I,Raoultella planticola,4,4.0000000000000435
+Amoxycillin clavulanate_I,Serratia ficaria,9,8.999999999999872
+Amoxycillin clavulanate_I,Serratia fonticola,4,3.999999999999958
+Amoxycillin clavulanate_I,Serratia liquefaciens,75,75.00000000000047
+Amoxycillin clavulanate_I,Serratia marcescens,9306,9306.00000000007
+Amoxycillin clavulanate_I,Serratia odorifera,5,5.000000000000016
+Amoxycillin clavulanate_I,Serratia plymuthica,1,1
+Amoxycillin clavulanate_I,Serratia rubidaea,1,1.000000000000006
+Amoxycillin clavulanate_I,Serratia ureilytica,99,98.99999999999889
+Amoxycillin clavulanate_I,"Serratia, non-speciated",59,58.99999999999983
+Amoxycillin clavulanate_I,Streptococcus pneumoniae,820,820.0000000000034
+Ampicillin_I,Citrobacter amalonaticus,82,82.00000000000031
+Ampicillin_I,Citrobacter braakii,190,189.9999999999989
+Ampicillin_I,Citrobacter diversus,13,12.999999999999849
+Ampicillin_I,Citrobacter farmeri,54,54.00000000000006
+Ampicillin_I,Citrobacter freundii,2849,2848.9999999999927
+Ampicillin_I,Citrobacter gillenii,1,1.0000000000000036
+Ampicillin_I,Citrobacter koseri,3635,3634.9999999999945
+Ampicillin_I,Citrobacter murliniae,5,4.999999999999994
+Ampicillin_I,Citrobacter sedlakii,34,33.99999999999991
+Ampicillin_I,Citrobacter spp,2,1.9999999999999802
+Ampicillin_I,Citrobacter youngae,2,1.9999999999999996
+Ampicillin_I,"Citrobacter, non-speciated",110,109.99999999999626
+Ampicillin_I,Enterobacter agglomerans,53,52.99999999999988
+Ampicillin_I,Enterobacter asburiae,1214,1213.9999999999811
+Ampicillin_I,Enterobacter bugandensis,11,10.999999999999863
+Ampicillin_I,Enterobacter cancerogenus,9,8.999999999999948
+Ampicillin_I,Enterobacter cloacae,17271,17270.99999999975
+Ampicillin_I,Enterobacter hormaechi,33,32.99999999999994
+Ampicillin_I,Enterobacter intermedium,2,1.9999999999999902
+Ampicillin_I,Enterobacter kobei,590,589.9999999999957
+Ampicillin_I,Enterobacter ludwigii,150,150.0000000000021
+Ampicillin_I,Enterobacter sakazakii,13,12.99999999999926
+Ampicillin_I,Enterobacter spp,7,7.000000000000028
+Ampicillin_I,Enterobacter taylorae,5,5.000000000000032
+Ampicillin_I,Enterobacter xiangfangensis,11,11.000000000000188
+Ampicillin_I,"Enterobacter, non-speciated",556,555.9999999999956
+Ampicillin_I,Enterococcus avium,12,11.99999999999985
+Ampicillin_I,Enterococcus casseliflavus,3,2.9999999999999614
+Ampicillin_I,Enterococcus durans,12,12.000000000000252
+Ampicillin_I,Enterococcus faecalis,96,95.99999999999909
+Ampicillin_I,Enterococcus faecium,5362,5361.99999999991
+Ampicillin_I,Enterococcus gallinarum,14,13.99999999999999
+Ampicillin_I,Enterococcus hirae,1,1.000000000000024
+Ampicillin_I,Enterococcus raffinosus,25,25.00000000000003
+Ampicillin_I,"Enterococcus, non-speciated",8,8.000000000000233
+Ampicillin_I,Escherichia coli,31745,31745.000000000295
+Ampicillin_I,Escherichia hermanii,2,2.0000000000000058
+Ampicillin_I,Escherichia vulneris,1,1.000000000000013
+Ampicillin_I,Haemophilus influenzae,2816,2815.9999999999545
+Ampicillin_I,Haemophilus parainfluenzae,59,59.00000000000021
+Ampicillin_I,Hafnia alvei,2,2.000000000000008
+Ampicillin_I,Klebsiella aerogenes,6989,6988.999999999845
+Ampicillin_I,Klebsiella ornithinolytica,7,7.000000000000035
+Ampicillin_I,Klebsiella oxytoca,7007,7006.999999999947
+Ampicillin_I,Klebsiella ozaenae,5,5
+Ampicillin_I,Klebsiella planticola,5,5
+Ampicillin_I,Klebsiella pneumoniae,36585,36584.99999999945
+Ampicillin_I,Klebsiella spp,6,5.999999999999998
+Ampicillin_I,Klebsiella variicola,447,447.0000000000007
+Ampicillin_I,"Klebsiella, non-speciated",173,173.00000000000003
+Ampicillin_I,Kluyvera ascorbata,1,1.0000000000000104
+Ampicillin_I,Lelliottia amnigena,27,27.00000000000008
+Ampicillin_I,Morganella morganii,2434,2434.000000000008
+Ampicillin_I,Pantoea dispersa,1,1.0000000000000064
+Ampicillin_I,Pantoea septica,1,1.0000000000000078
+Ampicillin_I,Pluralibacter gergoviae,12,12.000000000000124
+Ampicillin_I,Proteus hauseri,280,280.0000000000035
+Ampicillin_I,Proteus mirabilis,2015,2014.9999999999818
+Ampicillin_I,Proteus penneri,78,78.00000000000074
+Ampicillin_I,Proteus spp,2,1.9999999999999947
+Ampicillin_I,Proteus vulgaris,1785,1784.9999999999873
+Ampicillin_I,Providencia alcalifaciens,12,12.000000000000199
+Ampicillin_I,Providencia rettgeri,236,236.00000000000043
+Ampicillin_I,Providencia spp,2,2.000000000000014
+Ampicillin_I,Providencia stuartii,645,644.9999999999998
+Ampicillin_I,"Providencia, non-speciated",31,31.000000000000206
+Ampicillin_I,Raoultella ornithinolytica,121,121.00000000000041
+Ampicillin_I,Raoultella planticola,31,31.000000000000405
+Ampicillin_I,Salmonella spp,1,0.9999999999999545
+Ampicillin_I,Serratia ficaria,9,9.000000000000044
+Ampicillin_I,Serratia fonticola,9,8.999999999999766
+Ampicillin_I,Serratia liquefaciens,66,66.00000000000087
+Ampicillin_I,Serratia marcescens,8694,8694.000000000007
+Ampicillin_I,Serratia odorifera,9,9.000000000000103
+Ampicillin_I,Serratia plymuthica,2,2.0000000000000364
+Ampicillin_I,Serratia rubidaea,5,5.000000000000053
+Ampicillin_I,Serratia ureilytica,94,94.00000000000063
+Ampicillin_I,"Serratia, non-speciated",52,52.00000000000053
+Cefepime_I,Achromobacter xylosoxidans,3,2.9999999999997127
+Cefepime_I,Acinetobacter anitratus,11,10.999999999999952
+Cefepime_I,Acinetobacter baumannii,7203,7202.99999999996
+Cefepime_I,Acinetobacter baylyi,3,2.999999999999993
+Cefepime_I,Acinetobacter bereziniae,3,3.0000000000000155
+Cefepime_I,Acinetobacter calcoaceticus,5,4.999999999999911
+Cefepime_I,Acinetobacter dijkshoorniae,1,1.0000000000000018
+Cefepime_I,Acinetobacter guillouiae,4,3.9999999999999227
+Cefepime_I,Acinetobacter haemolyticus,2,2.000000000000098
+Cefepime_I,Acinetobacter johnsonii,16,16.000000000000053
+Cefepime_I,Acinetobacter junii,5,4.999999999999985
+Cefepime_I,Acinetobacter lwoffii,17,17.000000000000185
+Cefepime_I,Acinetobacter nosocomialis,107,106.9999999999992
+Cefepime_I,Acinetobacter pitii,87,87.00000000000064
+Cefepime_I,Acinetobacter radioresistens,1,0.9999999999999728
+Cefepime_I,Acinetobacter schindleri,2,2.0000000000000084
+Cefepime_I,Acinetobacter seifertii,1,1.0000000000000153
+Cefepime_I,Acinetobacter ursingii,19,19.000000000000192
+Cefepime_I,"Acinetobacter, non-speciated",237,237.0000000000001
+Cefepime_I,Citrobacter amalonaticus,5,4.999999999999995
+Cefepime_I,Citrobacter braakii,9,8.999999999999865
+Cefepime_I,Citrobacter diversus,1,1.0000000000000067
+Cefepime_I,Citrobacter farmeri,5,5.000000000000019
+Cefepime_I,Citrobacter freundii,300,299.9999999999961
+Cefepime_I,Citrobacter koseri,45,44.99999999999981
+Cefepime_I,Citrobacter sedlakii,3,3.000000000000078
+Cefepime_I,Citrobacter spp,1,1.0000000000000007
+Cefepime_I,"Citrobacter, non-speciated",22,21.999999999999993
+Cefepime_I,Enterobacter agglomerans,10,10.000000000000007
+Cefepime_I,Enterobacter asburiae,54,53.999999999999815
+Cefepime_I,Enterobacter cloacae,2281,2281.0000000000255
+Cefepime_I,Enterobacter hormaechi,4,4.000000000000044
+Cefepime_I,Enterobacter kobei,28,27.999999999999773
+Cefepime_I,Enterobacter sakazakii,1,0.9999999999999997
+Cefepime_I,Enterobacter xiangfangensis,2,2.000000000000006
+Cefepime_I,"Enterobacter, non-speciated",73,72.99999999999966
+Cefepime_I,Escherichia coli,8192,8192.000000000102
+Cefepime_I,Klebsiella aerogenes,301,300.99999999999875
+Cefepime_I,Klebsiella oxytoca,251,250.9999999999977
+Cefepime_I,Klebsiella planticola,2,1.9999999999999922
+Cefepime_I,Klebsiella pneumoniae,11709,11708.999999999854
+Cefepime_I,Klebsiella spp,1,1.00000000000001
+Cefepime_I,Klebsiella variicola,35,34.99999999999982
+Cefepime_I,"Klebsiella, non-speciated",70,70.00000000000007
+Cefepime_I,Kluyvera ascorbata,1,1.0000000000000004
+Cefepime_I,Lelliottia amnigena,2,2.0000000000000395
+Cefepime_I,Morganella morganii,64,63.99999999999989
+Cefepime_I,Pantoea dispersa,1,1.000000000000005
+Cefepime_I,Pluralibacter gergoviae,5,4.999999999999992
+Cefepime_I,Proteus hauseri,2,1.999999999999994
+Cefepime_I,Proteus mirabilis,400,400.000000000001
+Cefepime_I,Proteus vulgaris,18,18.000000000000117
+Cefepime_I,Providencia rettgeri,39,39.00000000000032
+Cefepime_I,Providencia stuartii,100,99.99999999999952
+Cefepime_I,"Providencia, non-speciated",4,3.9999999999999645
+Cefepime_I,Pseudomonas aeruginosa,4731,4730.999999999975
+Cefepime_I,Pseudomonas mosselii,1,1.0000000000000295
+Cefepime_I,Pseudomonas putida,2,2.0000000000000138
+Cefepime_I,Raoultella ornithinolytica,11,11.000000000000213
+Cefepime_I,Serratia ficaria,1,0.9999999999999998
+Cefepime_I,Serratia liquefaciens,2,2.0000000000000124
+Cefepime_I,Serratia marcescens,466,466.0000000000021
+Cefepime_I,Serratia odorifera,1,0.9999999999999986
+Cefepime_I,Serratia rubidaea,1,1.0000000000000029
+Cefepime_I,Serratia ureilytica,6,5.999999999999982
+Cefepime_I,"Serratia, non-speciated",4,3.999999999999993
+Ceftazidime_I,Acinetobacter anitratus,13,12.999999999998685
+Ceftazidime_I,Acinetobacter baumannii,7742,7741.999999999935
+Ceftazidime_I,Acinetobacter baylyi,5,4.999999999999974
+Ceftazidime_I,Acinetobacter bereziniae,5,4.999999999999932
+Ceftazidime_I,Acinetobacter calcoaceticus,4,3.999999999999941
+Ceftazidime_I,Acinetobacter dijkshoorniae,6,6.000000000000035
+Ceftazidime_I,Acinetobacter guillouiae,2,2.0000000000000027
+Ceftazidime_I,Acinetobacter haemolyticus,3,3.0000000000000475
+Ceftazidime_I,Acinetobacter johnsonii,7,7.000000000000016
+Ceftazidime_I,Acinetobacter junii,6,5.999999999999927
+Ceftazidime_I,Acinetobacter lwoffii,29,29.00000000000009
+Ceftazidime_I,Acinetobacter nosocomialis,89,89.00000000000009
+Ceftazidime_I,Acinetobacter parvus,1,0.9999999999999853
+Ceftazidime_I,Acinetobacter pitii,81,81.00000000000013
+Ceftazidime_I,Acinetobacter radioresistens,2,2.00000000000002
+Ceftazidime_I,Acinetobacter schindleri,2,2.000000000000086
+Ceftazidime_I,Acinetobacter seifertii,1,1.0000000000000104
+Ceftazidime_I,Acinetobacter spp,2,1.999999999999996
+Ceftazidime_I,Acinetobacter tjernbergiae,1,1.0000000000000007
+Ceftazidime_I,Acinetobacter ursingii,86,85.9999999999996
+Ceftazidime_I,"Acinetobacter, non-speciated",247,246.99999999999943
+Ceftazidime_I,Aeromonas spp,1,0.9999999999999953
+Ceftazidime_I,Citrobacter amalonaticus,5,5.000000000000007
+Ceftazidime_I,Citrobacter braakii,67,66.99999999999964
+Ceftazidime_I,Citrobacter diversus,1,1.000000000000013
+Ceftazidime_I,Citrobacter farmeri,6,6.000000000000031
+Ceftazidime_I,Citrobacter freundii,1300,1299.999999999996
+Ceftazidime_I,Citrobacter koseri,79,79.00000000000048
+Ceftazidime_I,Citrobacter murliniae,3,2.9999999999999805
+Ceftazidime_I,Citrobacter sedlakii,3,3.000000000000004
+Ceftazidime_I,Citrobacter spp,2,1.9999999999999645
+Ceftazidime_I,Citrobacter youngae,1,1.0000000000000187
+Ceftazidime_I,"Citrobacter, non-speciated",44,43.99999999999965
+Ceftazidime_I,Enterobacter agglomerans,1,1.000000000000016
+Ceftazidime_I,Enterobacter asburiae,273,273.0000000000003
+Ceftazidime_I,Enterobacter bugandensis,1,0.9999999999999774
+Ceftazidime_I,Enterobacter cloacae,4891,4890.999999999992
+Ceftazidime_I,Enterobacter hormaechi,7,6.999999999999988
+Ceftazidime_I,Enterobacter kobei,132,131.9999999999989
+Ceftazidime_I,Enterobacter ludwigii,24,23.99999999999995
+Ceftazidime_I,Enterobacter sakazakii,1,1
+Ceftazidime_I,Enterobacter spp,3,2.9999999999999996
+Ceftazidime_I,Enterobacter xiangfangensis,5,4.999999999999956
+Ceftazidime_I,"Enterobacter, non-speciated",169,169
+Ceftazidime_I,Escherichia coli,6880,6879.999999999993
+Ceftazidime_I,Hafnia alvei,1,1.0000000000000056
+Ceftazidime_I,Klebsiella aerogenes,1760,1759.9999999999961
+Ceftazidime_I,Klebsiella oxytoca,332,331.99999999999966
+Ceftazidime_I,Klebsiella planticola,1,0.9999999999999993
+Ceftazidime_I,Klebsiella pneumoniae,11947,11947.000000000107
+Ceftazidime_I,Klebsiella spp,2,1.9999999999999905
+Ceftazidime_I,Klebsiella variicola,42,41.99999999999956
+Ceftazidime_I,"Klebsiella, non-speciated",65,64.9999999999995
+Ceftazidime_I,Lelliottia amnigena,3,2.9999999999999774
+Ceftazidime_I,Morganella morganii,297,296.9999999999985
+Ceftazidime_I,Myroides odoratimimus,1,0.9999999999999474
+Ceftazidime_I,Pantoea dispersa,1,0.9999999999999987
+Ceftazidime_I,Pluralibacter gergoviae,1,0.9999999999999967
+Ceftazidime_I,Proteus hauseri,1,1
+Ceftazidime_I,Proteus mirabilis,175,174.99999999999878
+Ceftazidime_I,Proteus vulgaris,20,19.99999999999995
+Ceftazidime_I,Providencia rettgeri,62,61.99999999999998
+Ceftazidime_I,Providencia stuartii,128,127.99999999999912
+Ceftazidime_I,"Providencia, non-speciated",7,7.000000000000021
+Ceftazidime_I,Pseudomonas aeruginosa,6939,6939.000000000001
+Ceftazidime_I,Pseudomonas putida,3,2.9999999999999694
+Ceftazidime_I,Raoultella ornithinolytica,16,15.999999999999975
+Ceftazidime_I,Serratia liquefaciens,5,4.9999999999999645
+Ceftazidime_I,Serratia marcescens,372,371.99999999999795
+Ceftazidime_I,Serratia rubidaea,1,0.9999999999999982
+Ceftazidime_I,Serratia ureilytica,3,2.9999999999999694
+Ceftazidime_I,"Serratia, non-speciated",1,0.9999999999999938
+Ceftriaxone_I,Acinetobacter anitratus,14,13.999999999999918
+Ceftriaxone_I,Acinetobacter baumannii,4297,4297.000000000012
+Ceftriaxone_I,Acinetobacter baylyi,1,1.0000000000000184
+Ceftriaxone_I,Acinetobacter calcoaceticus,5,4.999999999999976
+Ceftriaxone_I,Acinetobacter guillouiae,3,3.0000000000000346
+Ceftriaxone_I,Acinetobacter johnsonii,3,3.000000000000001
+Ceftriaxone_I,Acinetobacter junii,9,9.000000000000025
+Ceftriaxone_I,Acinetobacter lwoffii,11,10.999999999999936
+Ceftriaxone_I,Acinetobacter nosocomialis,51,51.0000000000002
+Ceftriaxone_I,Acinetobacter pitii,54,53.99999999999972
+Ceftriaxone_I,Acinetobacter radioresistens,2,2.0000000000000315
+Ceftriaxone_I,Acinetobacter tjernbergiae,1,0.9999999999999798
+Ceftriaxone_I,Acinetobacter ursingii,20,20.000000000000036
+Ceftriaxone_I,"Acinetobacter, non-speciated",101,100.99999999999986
+Ceftriaxone_I,Citrobacter amalonaticus,9,9.000000000000039
+Ceftriaxone_I,Citrobacter braakii,41,41.00000000000027
+Ceftriaxone_I,Citrobacter farmeri,6,5.999999999999952
+Ceftriaxone_I,Citrobacter freundii,957,956.9999999999968
+Ceftriaxone_I,Citrobacter koseri,90,89.99999999999974
+Ceftriaxone_I,Citrobacter murliniae,1,1.0000000000000073
+Ceftriaxone_I,Citrobacter sedlakii,4,3.9999999999999245
+Ceftriaxone_I,Citrobacter youngae,1,0.9999999999999916
+Ceftriaxone_I,"Citrobacter, non-speciated",21,21.000000000000053
+Ceftriaxone_I,Enterobacter agglomerans,24,24.0000000000001
+Ceftriaxone_I,Enterobacter asburiae,270,269.99999999999943
+Ceftriaxone_I,Enterobacter cloacae,5081,5081.000000000007
+Ceftriaxone_I,Enterobacter hormaechi,9,8.999999999999961
+Ceftriaxone_I,Enterobacter intermedium,2,2.0000000000000124
+Ceftriaxone_I,Enterobacter kobei,119,118.99999999999997
+Ceftriaxone_I,Enterobacter ludwigii,18,18.000000000000014
+Ceftriaxone_I,Enterobacter sakazakii,5,4.999999999999998
+Ceftriaxone_I,"Enterobacter, non-speciated",67,67.00000000000011
+Ceftriaxone_I,Escherichia coli,7177,7176.999999999985
+Ceftriaxone_I,Klebsiella aerogenes,1525,1525.0000000000018
+Ceftriaxone_I,Klebsiella oxytoca,698,697.9999999999983
+Ceftriaxone_I,Klebsiella planticola,2,1.9999999999999591
+Ceftriaxone_I,Klebsiella pneumoniae,8496,8495.999999999978
+Ceftriaxone_I,Klebsiella variicola,44,44.00000000000006
+Ceftriaxone_I,"Klebsiella, non-speciated",4,4.0000000000000115
+Ceftriaxone_I,Kluyvera ascorbata,1,0.9999999999999896
+Ceftriaxone_I,Lelliottia amnigena,11,11.000000000000025
+Ceftriaxone_I,Morganella morganii,79,79.00000000000001
+Ceftriaxone_I,Pluralibacter gergoviae,7,7.000000000000029
+Ceftriaxone_I,Proteus hauseri,40,40.000000000000036
+Ceftriaxone_I,Proteus mirabilis,226,225.99999999999957
+Ceftriaxone_I,Proteus penneri,8,8.000000000000023
+Ceftriaxone_I,Proteus vulgaris,100,100.00000000000011
+Ceftriaxone_I,Providencia alcalifaciens,1,1.0000000000000038
+Ceftriaxone_I,Providencia rettgeri,31,31.00000000000005
+Ceftriaxone_I,Providencia stuartii,77,77.00000000000003
+Ceftriaxone_I,"Providencia, non-speciated",2,2.0000000000000187
+Ceftriaxone_I,Raoultella ornithinolytica,6,5.9999999999999964
+Ceftriaxone_I,Raoultella planticola,1,1.0000000000000149
+Ceftriaxone_I,Serratia ficaria,8,8.000000000000044
+Ceftriaxone_I,Serratia fonticola,6,5.999999999999975
+Ceftriaxone_I,Serratia liquefaciens,10,9.999999999999996
+Ceftriaxone_I,Serratia marcescens,1007,1006.9999999999987
+Ceftriaxone_I,Serratia odorifera,2,1.9999999999999885
+Ceftriaxone_I,Serratia ureilytica,10,10.000000000000009
+Ceftriaxone_I,"Serratia, non-speciated",9,9.000000000000124
+Ceftriaxone_I,Streptococcus anginosus,3,3.0000000000000093
+Ceftriaxone_I,Streptococcus oralis,6,6.000000000000021
+Ceftriaxone_I,Streptococcus pneumoniae,342,342.00000000000074
+Clindamycin_I,Anaerococcus hydrogenalis,3,3.0000000000001315
+Clindamycin_I,Anaerococcus vaginalis,4,3.9999999999999956
+Clindamycin_I,Bacteroides caccae,11,10.999999999999462
+Clindamycin_I,Bacteroides cellulosilyticus,1,0.9999999999999178
+Clindamycin_I,Bacteroides eggerthii,2,1.9999999999999847
+Clindamycin_I,Bacteroides faecis,6,5.999999999999989
+Clindamycin_I,Bacteroides fragilis,226,225.99999999999702
+Clindamycin_I,Bacteroides intestinalis,5,5.000000000000008
+Clindamycin_I,Bacteroides massiliensis,1,1.000000000000013
+Clindamycin_I,Bacteroides nordii,5,4.999999999999998
+Clindamycin_I,Bacteroides ovatus,114,114.00000000000003
+Clindamycin_I,Bacteroides pyogenes,2,1.9999999999998723
+Clindamycin_I,Bacteroides salersyae,5,5.000000000000034
+Clindamycin_I,Bacteroides stercosis,4,3.9999999999999414
+Clindamycin_I,Bacteroides thetaiotaomicron,146,146.00000000000063
+Clindamycin_I,Bacteroides uniformis,42,41.99999999999967
+Clindamycin_I,Bacteroides vulgatus,91,91
+Clindamycin_I,Campylobacter ureolyticus,1,0.9999999999999927
+Clindamycin_I,Clostridioides difficile,197,196.99999999999875
+Clindamycin_I,Clostridium aldenense,2,1.999999999999992
+Clindamycin_I,Clostridium bifermentans,1,0.9999999999999943
+Clindamycin_I,Clostridium bolteae,2,1.9999999999999942
+Clindamycin_I,Clostridium butyricum,1,0.9999999999999856
+Clindamycin_I,Clostridium celerecrescens,6,5.999999999999891
+Clindamycin_I,Clostridium citroniae,1,0.9999999999999906
+Clindamycin_I,Clostridium clostridiiformis,2,1.9999999999999947
+Clindamycin_I,Clostridium cochlearium,3,3.000000000000147
+Clindamycin_I,Clostridium hathewayi,7,7.000000000000016
+Clindamycin_I,Clostridium innocuum,15,15.000000000000018
+Clindamycin_I,Clostridium paraputrificum,10,10.000000000000062
+Clindamycin_I,Clostridium perfringens,53,53.00000000000008
+Clindamycin_I,Clostridium ramosum,16,15.999999999999787
+Clindamycin_I,Clostridium scindens,1,0.9999999999999598
+Clindamycin_I,Clostridium sordellii,3,2.9999999999999893
+Clindamycin_I,Clostridium sphenoides,3,3.0000000000000027
+Clindamycin_I,Clostridium sporogenes,27,27.000000000000178
+Clindamycin_I,Clostridium spp,1,0.9999999999999905
+Clindamycin_I,Clostridium tertium,20,19.9999999999998
+Clindamycin_I,Finegoldia magna,17,16.99999999999979
+Clindamycin_I,Parabacteroides distasonis,36,36
+Clindamycin_I,Parabacteroides goldsteinii,2,2.000000000000012
+Clindamycin_I,Parabacteroides johnsonii,1,1.0000000000000027
+Clindamycin_I,Parvimonas micra,12,11.999999999999872
+Clindamycin_I,Peptoniphilus gorbachii,2,1.9999999999999973
+Clindamycin_I,Peptoniphilus harei,45,44.9999999999992
+Clindamycin_I,Peptoniphilus lacrimalis,1,1.000000000000014
+Clindamycin_I,Peptoniphilus olsenii,2,1.999999999999967
+Clindamycin_I,Peptoniphilus spp,1,1.0000000000000042
+Clindamycin_I,Peptostreptococcus anaerobius,11,11.000000000000005
+Clindamycin_I,Peptostreptococcus magnus,94,94.00000000000021
+Clindamycin_I,Prevotella baroniae,5,5.000000000000011
+Clindamycin_I,Prevotella bergensis,12,11.99999999999995
+Clindamycin_I,Prevotella bivia,101,101.00000000000138
+Clindamycin_I,Prevotella buccae,57,56.99999999999973
+Clindamycin_I,Prevotella buccalis,4,3.9999999999999623
+Clindamycin_I,Prevotella corporis,3,2.99999999999998
+Clindamycin_I,Prevotella denticola,40,39.999999999999474
+Clindamycin_I,Prevotella disiens,21,21.000000000000032
+Clindamycin_I,Prevotella histicola,4,4.000000000000068
+Clindamycin_I,Prevotella intermedia,10,10.000000000000018
+Clindamycin_I,Prevotella loescheii,2,2.0000000000000444
+Clindamycin_I,Prevotella maculosa,1,0.9999999999999927
+Clindamycin_I,Prevotella melaninogenica,11,11.000000000000034
+Clindamycin_I,Prevotella nanceinsis,8,7.999999999999974
+Clindamycin_I,Prevotella nigrescens,17,16.99999999999997
+Clindamycin_I,Prevotella oralis,4,3.9999999999999987
+Clindamycin_I,Prevotella oris,8,8.000000000000083
+Clindamycin_I,Prevotella pallens,2,2.0000000000000058
+Clindamycin_I,Prevotella salivae,4,3.9999999999999245
+Clindamycin_I,Prevotella spp,8,8.00000000000001
+Clindamycin_I,Prevotella timonensis,8,7.999999999999961
+Clindamycin_I,Staphylococcus Coagulase Negative,58,57.999999999999716
+Clindamycin_I,Staphylococcus aureus,11398,11397.999999999854
+Clindamycin_I,Staphylococcus capitis,95,95.00000000000031
+Clindamycin_I,Staphylococcus caprae,9,9.000000000000044
+Clindamycin_I,Staphylococcus cohnii,14,14.00000000000003
+Clindamycin_I,Staphylococcus epidermidis,2148,2147.9999999999905
+Clindamycin_I,Staphylococcus haemolyticus,872,871.9999999999985
+Clindamycin_I,Staphylococcus hominis,142,142.00000000000006
+Clindamycin_I,Staphylococcus intermedius,1,0.9999999999999988
+Clindamycin_I,Staphylococcus lugdunensis,36,35.99999999999998
+Clindamycin_I,Staphylococcus pettenkoferi,1,0.9999999999999992
+Clindamycin_I,Staphylococcus pseudointermedius,2,2.00000000000001
+Clindamycin_I,Staphylococcus saprophyticus,16,16.000000000000057
+Clindamycin_I,Staphylococcus sciuri,6,5.999999999999979
+Clindamycin_I,Staphylococcus simulans,19,19.000000000000114
+Clindamycin_I,Staphylococcus warneri,8,7.9999999999999805
+Clindamycin_I,Streptococcus agalactiae,579,579.0000000000055
+Clindamycin_I,Streptococcus anginosus,71,70.99999999999986
+Clindamycin_I,Streptococcus bovis,8,8.000000000000064
+Clindamycin_I,Streptococcus canis,5,5.000000000000019
+Clindamycin_I,Streptococcus constellatus,13,13
+Clindamycin_I,Streptococcus dysgalactiae,163,162.99999999999932
+Clindamycin_I,Streptococcus gallolyticus,77,76.9999999999999
+Clindamycin_I,Streptococcus intermedius,1,0.9999999999999636
+Clindamycin_I,Streptococcus lutetiensis,1,0.999999999999993
+Clindamycin_I,Streptococcus massiliensis,1,1.0000000000000004
+Clindamycin_I,Streptococcus mitis,1,1.000000000000007
+Clindamycin_I,Streptococcus oralis,5,4.999999999999985
+Clindamycin_I,Streptococcus parasanguinis,1,1.0000000000000022
+Clindamycin_I,Streptococcus pneumoniae,4536,4536.000000000002
+Clindamycin_I,Streptococcus pyogenes,353,353.00000000000153
+Clindamycin_I,Streptococcus salivarius,2,2.000000000000043
+Clindamycin_I,"Streptococcus, Beta Hemolytic",20,20.000000000000423
+Erythromycin_I,Enterococcus avium,9,8.999999999999842
+Erythromycin_I,Enterococcus faecalis,2265,2265.0000000000123
+Erythromycin_I,Enterococcus faecium,2075,2074.9999999999777
+Erythromycin_I,Enterococcus gallinarum,4,3.9999999999999774
+Erythromycin_I,Enterococcus raffinosus,1,0.9999999999999919
+Erythromycin_I,Staphylococcus Coagulase Negative,136,136.00000000001225
+Erythromycin_I,Staphylococcus aureus,23315,23314.999999999338
+Erythromycin_I,Staphylococcus capitis,150,150.00000000000023
+Erythromycin_I,Staphylococcus caprae,11,11.000000000000064
+Erythromycin_I,Staphylococcus cohnii,30,29.999999999999833
+Erythromycin_I,Staphylococcus epidermidis,3816,3816.0000000000273
+Erythromycin_I,Staphylococcus haemolyticus,2050,2050.000000000027
+Erythromycin_I,Staphylococcus hominis,441,440.9999999999977
+Erythromycin_I,Staphylococcus intermedius,1,0.9999999999999913
+Erythromycin_I,Staphylococcus lugdunensis,60,59.9999999999998
+Erythromycin_I,Staphylococcus pasteuri,4,3.999999999999953
+Erythromycin_I,Staphylococcus pettenkoferi,1,0.9999999999999932
+Erythromycin_I,Staphylococcus pseudointermedius,2,2.000000000000001
+Erythromycin_I,Staphylococcus saprophyticus,101,100.99999999999939
+Erythromycin_I,Staphylococcus sciuri,9,8.99999999999988
+Erythromycin_I,Staphylococcus simulans,45,44.999999999999616
+Erythromycin_I,Staphylococcus spp,1,0.9999999999999879
+Erythromycin_I,Staphylococcus warneri,42,41.99999999999958
+Erythromycin_I,Streptococcus agalactiae,867,866.9999999999854
+Erythromycin_I,Streptococcus anginosus,122,121.99999999999991
+Erythromycin_I,Streptococcus bovis,13,12.99999999999992
+Erythromycin_I,Streptococcus canis,9,9.000000000000002
+Erythromycin_I,Streptococcus castoreus,2,2.000000000000002
+Erythromycin_I,Streptococcus constellatus,13,12.999999999999968
+Erythromycin_I,Streptococcus dysgalactiae,325,324.999999999997
+Erythromycin_I,Streptococcus gallolyticus,116,116.00000000000003
+Erythromycin_I,Streptococcus intermedius,2,1.9999999999999787
+Erythromycin_I,Streptococcus lutetiensis,2,1.999999999999985
+Erythromycin_I,Streptococcus mitis,3,3.0000000000000053
+Erythromycin_I,Streptococcus oralis,13,12.999999999999888
+Erythromycin_I,Streptococcus parasanguinis,4,4.000000000000015
+Erythromycin_I,Streptococcus pneumoniae,6735,6734.999999999984
+Erythromycin_I,Streptococcus pyogenes,686,685.9999999999986
+Erythromycin_I,Streptococcus salivarius,14,13.999999999999854
+Erythromycin_I,"Streptococcus, Beta Hemolytic",24,23.999999999999712
+Levofloxacin_I,Achromobacter xylosoxidans,1,1.0000000000002842
+Levofloxacin_I,Acinetobacter anitratus,12,11.999999999999691
+Levofloxacin_I,Acinetobacter baumannii,7256,7255.999999999936
+Levofloxacin_I,Acinetobacter bereziniae,9,8.99999999999988
+Levofloxacin_I,Acinetobacter calcoaceticus,6,5.99999999999995
+Levofloxacin_I,Acinetobacter dijkshoorniae,3,2.999999999999995
+Levofloxacin_I,Acinetobacter guillouiae,4,4.000000000000097
+Levofloxacin_I,Acinetobacter haemolyticus,1,0.9999999999999689
+Levofloxacin_I,Acinetobacter johnsonii,3,3.000000000000039
+Levofloxacin_I,Acinetobacter junii,3,2.999999999999943
+Levofloxacin_I,Acinetobacter lwoffii,9,9.000000000000108
+Levofloxacin_I,Acinetobacter nosocomialis,85,84.9999999999989
+Levofloxacin_I,Acinetobacter pitii,96,95.99999999999915
+Levofloxacin_I,Acinetobacter radioresistens,1,1.000000000000007
+Levofloxacin_I,Acinetobacter ursingii,6,5.999999999999882
+Levofloxacin_I,"Acinetobacter, non-speciated",191,190.9999999999988
+Levofloxacin_I,Bordetella trematum,1,0.999999999999977
+Levofloxacin_I,Citrobacter amalonaticus,2,2.000000000000029
+Levofloxacin_I,Citrobacter braakii,18,17.999999999999943
+Levofloxacin_I,Citrobacter diversus,1,0.9999999999999621
+Levofloxacin_I,Citrobacter farmeri,5,4.999999999999878
+Levofloxacin_I,Citrobacter freundii,665,665.0000000000015
+Levofloxacin_I,Citrobacter gillenii,1,0.9999999999999839
+Levofloxacin_I,Citrobacter koseri,59,58.99999999999871
+Levofloxacin_I,Citrobacter sedlakii,1,1.0000000000000124
+Levofloxacin_I,"Citrobacter, non-speciated",27,27.00000000000054
+Levofloxacin_I,Enterobacter agglomerans,18,18.00000000000017
+Levofloxacin_I,Enterobacter asburiae,85,84.99999999999962
+Levofloxacin_I,Enterobacter cancerogenus,1,0.9999999999999365
+Levofloxacin_I,Enterobacter cloacae,2629,2628.9999999999823
+Levofloxacin_I,Enterobacter hormaechi,2,1.9999999999999347
+Levofloxacin_I,Enterobacter kobei,41,40.99999999999987
+Levofloxacin_I,Enterobacter ludwigii,3,2.9999999999999805
+Levofloxacin_I,Enterobacter sakazakii,2,1.9999999999999765
+Levofloxacin_I,Enterobacter xiangfangensis,1,0.9999999999999974
+Levofloxacin_I,"Enterobacter, non-speciated",71,71.00000000000036
+Levofloxacin_I,Enterococcus avium,10,10.000000000000053
+Levofloxacin_I,Enterococcus casseliflavus,10,9.999999999999954
+Levofloxacin_I,Enterococcus durans,10,10.000000000000218
+Levofloxacin_I,Enterococcus faecalis,3495,3494.9999999999186
+Levofloxacin_I,Enterococcus faecium,5264,5264.0000000000455
+Levofloxacin_I,Enterococcus gallinarum,20,19.999999999999844
+Levofloxacin_I,Enterococcus hirae,1,1.0000000000000302
+Levofloxacin_I,Enterococcus raffinosus,26,25.99999999999987
+Levofloxacin_I,"Enterococcus, non-speciated",10,9.999999999999861
+Levofloxacin_I,Escherichia coli,17715,17714.999999999654
+Levofloxacin_I,Klebsiella aerogenes,641,641.0000000000014
+Levofloxacin_I,Klebsiella oxytoca,511,511.0000000000002
+Levofloxacin_I,Klebsiella ozaenae,1,1.0000000000000115
+Levofloxacin_I,Klebsiella planticola,1,0.9999999999999913
+Levofloxacin_I,Klebsiella pneumoniae,11492,11491.999999999765
+Levofloxacin_I,Klebsiella spp,1,0.9999999999999524
+Levofloxacin_I,Klebsiella variicola,38,38.000000000000355
+Levofloxacin_I,"Klebsiella, non-speciated",50,49.99999999999985
+Levofloxacin_I,Lelliottia amnigena,2,2.0000000000000044
+Levofloxacin_I,Morganella morganii,665,665.0000000000055
+Levofloxacin_I,Pantoea dispersa,1,0.9999999999999565
+Levofloxacin_I,Pluralibacter gergoviae,4,3.9999999999999827
+Levofloxacin_I,Proteus hauseri,8,8.000000000000014
+Levofloxacin_I,Proteus mirabilis,1457,1457.0000000000082
+Levofloxacin_I,Proteus penneri,8,7.99999999999998
+Levofloxacin_I,Proteus spp,2,1.9999999999999931
+Levofloxacin_I,Proteus vulgaris,89,88.9999999999991
+Levofloxacin_I,Providencia alcalifaciens,1,0.9999999999999963
+Levofloxacin_I,Providencia rettgeri,146,145.99999999999872
+Levofloxacin_I,Providencia stuartii,591,591.000000000003
+Levofloxacin_I,"Providencia, non-speciated",23,23.000000000000114
+Levofloxacin_I,Pseudomonas aeruginosa,12045,12044.99999999999
+Levofloxacin_I,Pseudomonas putida,7,6.999999999999874
+Levofloxacin_I,Raoultella ornithinolytica,14,13.999999999999966
+Levofloxacin_I,Raoultella planticola,1,0.9999999999999741
+Levofloxacin_I,Serratia fonticola,1,0.9999999999999933
+Levofloxacin_I,Serratia liquefaciens,4,3.9999999999999836
+Levofloxacin_I,Serratia marcescens,817,816.9999999999967
+Levofloxacin_I,Serratia odorifera,1,0.9999999999999992
+Levofloxacin_I,Serratia rubidaea,2,1.9999999999999583
+Levofloxacin_I,Serratia ureilytica,15,15.000000000000059
+Levofloxacin_I,"Serratia, non-speciated",3,3.000000000000017
+Levofloxacin_I,Staphylococcus Coagulase Negative,100,99.99999999999473
+Levofloxacin_I,Staphylococcus aureus,26163,26162.99999999979
+Levofloxacin_I,Staphylococcus capitis,132,131.99999999999898
+Levofloxacin_I,Staphylococcus caprae,7,6.999999999999902
+Levofloxacin_I,Staphylococcus cohnii,4,3.9999999999998828
+Levofloxacin_I,Staphylococcus epidermidis,4237,4236.999999999968
+Levofloxacin_I,Staphylococcus haemolyticus,3031,3031.000000000037
+Levofloxacin_I,Staphylococcus hominis,237,236.9999999999995
+Levofloxacin_I,Staphylococcus lugdunensis,9,9.000000000000046
+Levofloxacin_I,Staphylococcus pettenkoferi,1,0.9999999999999941
+Levofloxacin_I,Staphylococcus pseudointermedius,1,0.999999999999995
+Levofloxacin_I,Staphylococcus saprophyticus,3,2.999999999999978
+Levofloxacin_I,Staphylococcus schleiferi,1,0.9999999999999983
+Levofloxacin_I,Staphylococcus sciuri,4,4.000000000000011
+Levofloxacin_I,Staphylococcus simulans,22,22.00000000000006
+Levofloxacin_I,Staphylococcus warneri,3,2.999999999999995
+Levofloxacin_I,Stenotrophomonas maltophilia,111,110.99999999999964
+Levofloxacin_I,Streptococcus agalactiae,331,331.00000000000097
+Levofloxacin_I,Streptococcus anginosus,11,11.00000000000001
+Levofloxacin_I,Streptococcus bovis,2,1.9999999999999185
+Levofloxacin_I,Streptococcus dysgalactiae,27,27.00000000000023
+Levofloxacin_I,Streptococcus gallolyticus,20,19.999999999999837
+Levofloxacin_I,Streptococcus oralis,2,1.9999999999999827
+Levofloxacin_I,Streptococcus parasanguinis,1,0.9999999999999966
+Levofloxacin_I,Streptococcus pneumoniae,197,196.99999999999855
+Levofloxacin_I,Streptococcus pyogenes,18,18.000000000000025
+Linezolid_I,Enterococcus faecalis,23,23.000000000000014
+Linezolid_I,Enterococcus faecium,25,25.000000000000007
+Linezolid_I,Staphylococcus Coagulase Negative,1,0.9999999999999984
+Linezolid_I,Staphylococcus aureus,20,20
+Linezolid_I,Staphylococcus capitis,4,4.000000000000001
+Linezolid_I,Staphylococcus epidermidis,81,80.99999999999997
+Linezolid_I,Staphylococcus haemolyticus,3,3.0000000000000013
+Linezolid_I,Staphylococcus hominis,3,3.0000000000000004
+Linezolid_I,Staphylococcus warneri,1,1.0000000000000009
+Meropenem_I,Acinetobacter baumannii,6559,6559.000000000067
+Meropenem_I,Acinetobacter baylyi,2,2.0000000000000497
+Meropenem_I,Acinetobacter bereziniae,9,9.00000000000018
+Meropenem_I,Acinetobacter calcoaceticus,1,1.0000000000000338
+Meropenem_I,Acinetobacter dijkshoorniae,5,4.999999999999987
+Meropenem_I,Acinetobacter guillouiae,4,4.000000000000011
+Meropenem_I,Acinetobacter haemolyticus,5,5.000000000000048
+Meropenem_I,Acinetobacter johnsonii,4,4.000000000000053
+Meropenem_I,Acinetobacter junii,6,6.0000000000000595
+Meropenem_I,Acinetobacter lwoffii,5,5.000000000000142
+Meropenem_I,Acinetobacter nosocomialis,97,97.00000000000004
+Meropenem_I,Acinetobacter parvus,1,1.000000000000008
+Meropenem_I,Acinetobacter pitii,87,87.00000000000203
+Meropenem_I,Acinetobacter radioresistens,2,2.0000000000000373
+Meropenem_I,Acinetobacter schindleri,1,0.9999999999999112
+Meropenem_I,Acinetobacter seifertii,1,0.9999999999999956
+Meropenem_I,Acinetobacter ursingii,11,11.000000000000181
+Meropenem_I,"Acinetobacter, non-speciated",238,238.00000000000207
+Meropenem_I,Aeromonas veronii,1,1.0000000000000222
+Meropenem_I,Bacteroides fragilis,13,13.000000000000314
+Meropenem_I,Bacteroides thetaiotaomicron,1,0.999999999999976
+Meropenem_I,Citrobacter farmeri,5,5.000000000000098
+Meropenem_I,Citrobacter freundii,92,92.000000000001
+Meropenem_I,Citrobacter koseri,9,8.999999999999979
+Meropenem_I,Citrobacter spp,1,0.9999999999999298
+Meropenem_I,"Citrobacter, non-speciated",9,9.000000000000037
+Meropenem_I,Clostridium innocuum,1,1.0000000000000755
+Meropenem_I,Enterobacter asburiae,15,15.0000000000001
+Meropenem_I,Enterobacter cloacae,415,415.0000000000031
+Meropenem_I,Enterobacter hormaechi,2,2.0000000000000107
+Meropenem_I,Enterobacter kobei,8,8.000000000000078
+Meropenem_I,"Enterobacter, non-speciated",27,26.999999999999854
+Meropenem_I,Escherichia coli,273,273.00000000000284
+Meropenem_I,Klebsiella aerogenes,106,106.00000000000102
+Meropenem_I,Klebsiella oxytoca,58,58.00000000000061
+Meropenem_I,Klebsiella pneumoniae,3479,3479.000000000031
+Meropenem_I,Klebsiella variicola,6,5.999999999999831
+Meropenem_I,"Klebsiella, non-speciated",43,43.000000000000746
+Meropenem_I,Morganella morganii,7,6.9999999999999565
+Meropenem_I,Parabacteroides distasonis,1,1.0000000000000293
+Meropenem_I,Peptoniphilus harei,1,1.0000000000000053
+Meropenem_I,Prevotella bivia,1,1.0000000000000062
+Meropenem_I,Proteus mirabilis,23,23.00000000000011
+Meropenem_I,Proteus vulgaris,3,3.0000000000000315
+Meropenem_I,Providencia rettgeri,36,35.99999999999995
+Meropenem_I,Providencia stuartii,31,31.000000000000295
+Meropenem_I,"Providencia, non-speciated",2,2.000000000000007
+Meropenem_I,Pseudomonas aeruginosa,7797,7797.000000000072
+Meropenem_I,Pseudomonas mosselii,1,1.0000000000000728
+Meropenem_I,Pseudomonas putida,2,2.0000000000000195
+Meropenem_I,Raoultella ornithinolytica,3,3.000000000000046
+Meropenem_I,Raoultella planticola,3,3.000000000000034
+Meropenem_I,Serratia marcescens,150,150.00000000000242
+Meropenem_I,Serratia ureilytica,2,2.000000000000041
+Meropenem_I,Streptococcus pneumoniae,2259,2259.0000000000155
+Minocycline_I,Acinetobacter anitratus,1,0.9999999999999675
+Minocycline_I,Acinetobacter baumannii,418,418.0000000000022
+Minocycline_I,Acinetobacter haemolyticus,1,1.0000000000000246
+Minocycline_I,Acinetobacter johnsonii,1,1.000000000000002
+Minocycline_I,Acinetobacter junii,1,1.0000000000000129
+Minocycline_I,Acinetobacter nosocomialis,9,8.99999999999992
+Minocycline_I,Acinetobacter pitii,15,15.000000000000037
+Minocycline_I,Acinetobacter ursingii,2,2.000000000000016
+Minocycline_I,"Acinetobacter, non-speciated",4,4.000000000000025
+Minocycline_I,Citrobacter freundii,61,61.00000000000143
+Minocycline_I,Citrobacter koseri,5,5.0000000000002185
+Minocycline_I,Enterobacter agglomerans,8,8.000000000000009
+Minocycline_I,Enterobacter asburiae,15,15.000000000000012
+Minocycline_I,Enterobacter cloacae,1010,1010.000000000005
+Minocycline_I,Enterobacter hormaechi,1,1.0000000000000062
+Minocycline_I,Enterobacter kobei,12,12.000000000000016
+Minocycline_I,Enterobacter sakazakii,1,1.0000000000000016
+Minocycline_I,"Enterobacter, non-speciated",16,16.000000000000135
+Minocycline_I,Enterococcus avium,4,4.0000000000000036
+Minocycline_I,Enterococcus durans,4,3.999999999999945
+Minocycline_I,Enterococcus faecalis,1567,1567.000000000008
+Minocycline_I,Enterococcus faecium,636,636.0000000000033
+Minocycline_I,Enterococcus gallinarum,6,5.999999999999992
+Minocycline_I,Enterococcus hirae,1,1.000000000000049
+Minocycline_I,Enterococcus raffinosus,2,2.000000000000035
+Minocycline_I,Escherichia coli,1326,1326.0000000000014
+Minocycline_I,Haemophilus influenzae,39,38.99999999999985
+Minocycline_I,Haemophilus parainfluenzae,24,24.000000000000114
+Minocycline_I,Klebsiella aerogenes,180,180.00000000000077
+Minocycline_I,Klebsiella oxytoca,65,65.00000000000016
+Minocycline_I,Klebsiella ozaenae,1,0.9999999999999687
+Minocycline_I,Klebsiella pneumoniae,1952,1952.0000000000275
+Minocycline_I,Klebsiella variicola,17,16.999999999999535
+Minocycline_I,"Klebsiella, non-speciated",2,2.0000000000000013
+Minocycline_I,Lelliottia amnigena,2,2.000000000000018
+Minocycline_I,Pluralibacter gergoviae,1,0.9999999999999999
+Minocycline_I,Serratia ficaria,1,1.0000000000000056
+Minocycline_I,Serratia marcescens,180,180.00000000000074
+Minocycline_I,Serratia rubidaea,2,2.000000000000007
+Minocycline_I,Serratia ureilytica,2,1.9999999999999987
+Minocycline_I,Staphylococcus Coagulase Negative,2,1.999999999999974
+Minocycline_I,Staphylococcus aureus,1282,1281.9999999999943
+Minocycline_I,Staphylococcus capitis,13,12.999999999999925
+Minocycline_I,Staphylococcus epidermidis,9,8.999999999999995
+Minocycline_I,Staphylococcus haemolyticus,8,8.000000000000014
+Minocycline_I,Staphylococcus hominis,2,1.9999999999999858
+Minocycline_I,Stenotrophomonas maltophilia,21,21.00000000000021
+Minocycline_I,Streptococcus agalactiae,4565,4565.000000000009
+Minocycline_I,Streptococcus pyogenes,19,19.00000000000026
+Penicillin_I,Anaerococcus lactolyticus,1,1.0000000000000346
+Penicillin_I,Anaerococcus murdochii,1,1.0000000000000173
+Penicillin_I,Clostridioides difficile,174,173.99999999999977
+Penicillin_I,Clostridium bifermentans,1,1.0000000000000069
+Penicillin_I,Clostridium bolteae,5,4.999999999999984
+Penicillin_I,Clostridium butyricum,1,1.0000000000000127
+Penicillin_I,Clostridium cadaveris,1,1.000000000000017
+Penicillin_I,Clostridium celerecrescens,6,5.9999999999999885
+Penicillin_I,Clostridium citroniae,2,1.999999999999996
+Penicillin_I,Clostridium clostridiiformis,12,12.000000000000036
+Penicillin_I,Clostridium hathewayi,22,21.999999999999947
+Penicillin_I,Clostridium histolyticum,1,0.9999999999999882
+Penicillin_I,Clostridium innocuum,7,7.000000000000005
+Penicillin_I,Clostridium perfringens,19,18.999999999999886
+Penicillin_I,Clostridium ramosum,2,2.0000000000000133
+Penicillin_I,Clostridium scindens,1,0.9999999999999969
+Penicillin_I,Clostridium sphenoides,1,0.999999999999991
+Penicillin_I,Clostridium sporogenes,3,2.9999999999999725
+Penicillin_I,Clostridium tertium,7,7.0000000000000036
+Penicillin_I,Enterococcus avium,13,12.999999999999826
+Penicillin_I,Enterococcus casseliflavus,3,2.9999999999999862
+Penicillin_I,Enterococcus durans,12,11.999999999999925
+Penicillin_I,Enterococcus faecalis,109,108.99999999999962
+Penicillin_I,Enterococcus faecium,3229,3229.000000000002
+Penicillin_I,Enterococcus gallinarum,13,13.00000000000001
+Penicillin_I,Enterococcus hirae,3,2.9999999999999942
+Penicillin_I,Enterococcus raffinosus,32,31.999999999999854
+Penicillin_I,"Enterococcus, non-speciated",10,10.000000000000046
+Penicillin_I,Parvimonas micra,1,0.9999999999999787
+Penicillin_I,Peptoniphilus harei,3,3.000000000000008
+Penicillin_I,Peptostreptococcus anaerobius,43,42.99999999999972
+Penicillin_I,Peptostreptococcus magnus,1,1.0000000000000027
+Penicillin_I,Streptococcus constellatus,1,1.000000000000003
+Penicillin_I,Streptococcus oralis,7,7.0000000000000195
+Penicillin_I,Streptococcus pneumoniae,3231,3230.999999999994
+Piperacillin tazobactam_I,Acinetobacter anitratus,7,6.999999999998753
+Piperacillin tazobactam_I,Acinetobacter baumannii,7503,7502.99999999998
+Piperacillin tazobactam_I,Acinetobacter baylyi,4,4.000000000000011
+Piperacillin tazobactam_I,Acinetobacter bereziniae,5,5.00000000000002
+Piperacillin tazobactam_I,Acinetobacter calcoaceticus,5,5
+Piperacillin tazobactam_I,Acinetobacter dijkshoorniae,6,6.000000000000044
+Piperacillin tazobactam_I,Acinetobacter guillouiae,3,3.0000000000000067
+Piperacillin tazobactam_I,Acinetobacter haemolyticus,3,3.000000000000024
+Piperacillin tazobactam_I,Acinetobacter johnsonii,7,6.999999999999945
+Piperacillin tazobactam_I,Acinetobacter junii,3,3.000000000000039
+Piperacillin tazobactam_I,Acinetobacter lwoffii,21,20.999999999999623
+Piperacillin tazobactam_I,Acinetobacter nosocomialis,111,111.00000000000108
+Piperacillin tazobactam_I,Acinetobacter pitii,87,86.99999999999974
+Piperacillin tazobactam_I,Acinetobacter radioresistens,3,3.0000000000000693
+Piperacillin tazobactam_I,Acinetobacter schindleri,3,2.9999999999999827
+Piperacillin tazobactam_I,Acinetobacter seifertii,1,1.000000000000008
+Piperacillin tazobactam_I,Acinetobacter spp,2,2.00000000000002
+Piperacillin tazobactam_I,Acinetobacter tjernbergiae,1,1.0000000000000013
+Piperacillin tazobactam_I,Acinetobacter ursingii,14,14.000000000000066
+Piperacillin tazobactam_I,"Acinetobacter, non-speciated",237,237.00000000000114
+Piperacillin tazobactam_I,Bacteroides caccae,1,0.9999999999999916
+Piperacillin tazobactam_I,Bacteroides fragilis,11,11.000000000000078
+Piperacillin tazobactam_I,Bacteroides salersyae,1,1.0000000000000102
+Piperacillin tazobactam_I,Bacteroides thetaiotaomicron,1,1.0000000000000222
+Piperacillin tazobactam_I,Citrobacter amalonaticus,5,5.000000000000018
+Piperacillin tazobactam_I,Citrobacter braakii,25,25.000000000000043
+Piperacillin tazobactam_I,Citrobacter diversus,1,1.0000000000000253
+Piperacillin tazobactam_I,Citrobacter farmeri,4,4.000000000000011
+Piperacillin tazobactam_I,Citrobacter freundii,899,899.0000000000023
+Piperacillin tazobactam_I,Citrobacter koseri,69,68.99999999999957
+Piperacillin tazobactam_I,Citrobacter murliniae,1,1.0000000000000124
+Piperacillin tazobactam_I,Citrobacter sedlakii,3,3.000000000000001
+Piperacillin tazobactam_I,Citrobacter spp,1,1.0000000000000202
+Piperacillin tazobactam_I,"Citrobacter, non-speciated",26,26.000000000000348
+Piperacillin tazobactam_I,Clostridioides difficile,1,1.000000000000056
+Piperacillin tazobactam_I,Clostridium citroniae,1,0.9999999999999882
+Piperacillin tazobactam_I,Clostridium clostridiiformis,1,1.0000000000000062
+Piperacillin tazobactam_I,Enterobacter agglomerans,12,12.000000000000115
+Piperacillin tazobactam_I,Enterobacter asburiae,202,202.00000000000094
+Piperacillin tazobactam_I,Enterobacter cloacae,4562,4561.999999999961
+Piperacillin tazobactam_I,Enterobacter hormaechi,7,7.000000000000078
+Piperacillin tazobactam_I,Enterobacter kobei,102,102.00000000000018
+Piperacillin tazobactam_I,Enterobacter ludwigii,11,11.000000000000043
+Piperacillin tazobactam_I,Enterobacter sakazakii,2,2.0000000000000036
+Piperacillin tazobactam_I,Enterobacter spp,3,3.000000000000009
+Piperacillin tazobactam_I,Enterobacter xiangfangensis,2,2.000000000000049
+Piperacillin tazobactam_I,"Enterobacter, non-speciated",130,130.0000000000001
+Piperacillin tazobactam_I,Escherichia coli,3687,3687.0000000000255
+Piperacillin tazobactam_I,Haemophilus influenzae,31,31.000000000000217
+Piperacillin tazobactam_I,Haemophilus parainfluenzae,3,3.000000000000113
+Piperacillin tazobactam_I,Hafnia alvei,1,1.0000000000000233
+Piperacillin tazobactam_I,Klebsiella aerogenes,1665,1664.9999999999986
+Piperacillin tazobactam_I,Klebsiella oxytoca,1020,1020.0000000000002
+Piperacillin tazobactam_I,Klebsiella planticola,1,1.0000000000000087
+Piperacillin tazobactam_I,Klebsiella pneumoniae,9841,9841.000000000025
+Piperacillin tazobactam_I,Klebsiella spp,2,2.0000000000000107
+Piperacillin tazobactam_I,Klebsiella variicola,46,46.00000000000018
+Piperacillin tazobactam_I,"Klebsiella, non-speciated",54,54.000000000000455
+Piperacillin tazobactam_I,Lelliottia amnigena,5,5.000000000000032
+Piperacillin tazobactam_I,Morganella morganii,59,59.00000000000069
+Piperacillin tazobactam_I,Pantoea dispersa,1,1.000000000000003
+Piperacillin tazobactam_I,Parabacteroides distasonis,1,1.0000000000000089
+Piperacillin tazobactam_I,Pluralibacter gergoviae,5,4.999999999999998
+Piperacillin tazobactam_I,Proteus mirabilis,66,65.99999999999999
+Piperacillin tazobactam_I,Proteus vulgaris,10,10.000000000000231
+Piperacillin tazobactam_I,Providencia rettgeri,43,43.00000000000023
+Piperacillin tazobactam_I,Providencia stuartii,59,59.000000000000824
+Piperacillin tazobactam_I,"Providencia, non-speciated",4,4.000000000000056
+Piperacillin tazobactam_I,Pseudomonas aeruginosa,7873,7873.000000000069
+Piperacillin tazobactam_I,Raoultella ornithinolytica,8,8.000000000000206
+Piperacillin tazobactam_I,Raoultella planticola,3,3.000000000000049
+Piperacillin tazobactam_I,Serratia ficaria,1,1.0000000000000144
+Piperacillin tazobactam_I,Serratia liquefaciens,5,5.0000000000000915
+Piperacillin tazobactam_I,Serratia marcescens,580,580.0000000000089
+Piperacillin tazobactam_I,Serratia ureilytica,4,4.000000000000062
+Piperacillin tazobactam_I,"Serratia, non-speciated",4,4.000000000000049
+Tigecycline_I,Bacteroides fragilis,20,20.000000000000043
+Tigecycline_I,Bacteroides ovatus,10,9.999999999999991
+Tigecycline_I,Bacteroides salersyae,3,3.000000000000001
+Tigecycline_I,Bacteroides thetaiotaomicron,15,15.000000000000016
+Tigecycline_I,Bacteroides vulgatus,4,4.000000000000004
+Tigecycline_I,Citrobacter freundii,3,3.0000000000000027
+Tigecycline_I,"Citrobacter, non-speciated",4,4.000000000000011
+Tigecycline_I,Clostridium perfringens,1,1.0000000000000018
+Tigecycline_I,Enterobacter agglomerans,1,0.9999999999999989
+Tigecycline_I,Enterobacter cloacae,187,187.0000000000005
+Tigecycline_I,Enterobacter kobei,2,2.0000000000000093
+Tigecycline_I,Escherichia coli,13,13.000000000000043
+Tigecycline_I,Klebsiella aerogenes,20,20.00000000000006
+Tigecycline_I,Klebsiella oxytoca,3,3.0000000000000084
+Tigecycline_I,Klebsiella pneumoniae,222,222.00000000000045
+Tigecycline_I,Klebsiella variicola,1,0.9999999999999933
+Tigecycline_I,"Klebsiella, non-speciated",1,1.000000000000007
+Tigecycline_I,Morganella morganii,55,55.00000000000009
+Tigecycline_I,Parabacteroides distasonis,1,1.000000000000002
+Tigecycline_I,Proteus hauseri,1,1.0000000000000018
+Tigecycline_I,Proteus mirabilis,243,243.00000000000057
+Tigecycline_I,Proteus vulgaris,7,7.00000000000002
+Tigecycline_I,Providencia rettgeri,12,12.000000000000034
+Tigecycline_I,Providencia stuartii,52,52.00000000000016
+Tigecycline_I,"Providencia, non-speciated",2,2.000000000000005
+Tigecycline_I,Serratia fonticola,1,1.0000000000000022
+Tigecycline_I,Serratia marcescens,35,35.000000000000085
+Vancomycin_I,Enterococcus avium,2,2.0000000000000173
+Vancomycin_I,Enterococcus casseliflavus,2,2.000000000000004
+Vancomycin_I,Enterococcus durans,10,9.999999999999915
+Vancomycin_I,Enterococcus faecalis,225,225.00000000000023
+Vancomycin_I,Enterococcus faecium,1865,1864.9999999999932
+Vancomycin_I,Enterococcus gallinarum,4,3.9999999999999964
+Vancomycin_I,Enterococcus hirae,1,0.9999999999999792
+Vancomycin_I,Enterococcus raffinosus,5,5.000000000000003
+Vancomycin_I,"Enterococcus, non-speciated",2,2.0000000000000004
